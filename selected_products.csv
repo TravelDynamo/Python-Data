@@ -1,0 +1,502 @@
+order_id,order_date,order_status,total_price,currency,Product ID,Product Name,Category,quantity_sold,discount_amount,payment_method,shipping_cost,customer_id,customer_name,email,location_id,city,customer_type
+ORD_00003,10/03/24,Completed,1856,INR,PD_14,Football,Sports & Outdoors,1,119,PayPal,84,CUST_161,RBhosale,rbhosale296@gmail.com,LOC_11,Mysore,VIP
+ORD_00012,11/02/24,Pending,7283,INR,PD_14,Football,Sports & Outdoors,5,273,Net Banking,51,CUST_011,RJoshi,rjoshi691@gmail.com,LOC_11,Mysore,VIP
+ORD_00013,25/03/24,Completed,13935,INR,PD_14,Football,Sports & Outdoors,3,112,PayPal,61,CUST_197,NGupta,ngupta662@gmail.com,LOC_47,Madurai,Returning
+ORD_00021,08/02/24,Pending,11095,INR,PD_14,Football,Sports & Outdoors,5,393,Net Banking,63,CUST_140,KDeshmukh,kdeshmukh177@outlook.com,LOC_40,Aurangabad,VIP
+ORD_00023,10/02/24,Pending,12508,INR,PD_03,Microwave,Home & Kitchen,3,311,PayPal,45,CUST_292,KKumar,kkumar564@yahoo.com,LOC_42,Mangalore,New
+ORD_00040,25/03/24,Completed,4574,INR,PD_14,Football,Sports & Outdoors,5,25,Credit Card,89,CUST_061,NSharma,nsharma734@gmail.com,LOC_11,Mysore,Returning
+ORD_00041,02/03/24,Completed,2798,INR,PD_14,Football,Sports & Outdoors,2,208,Net Banking,82,CUST_058,AVerma,averma614@outlook.com,LOC_08,Kota,New
+ORD_00056,14/02/24,Canceled,8821,INR,PD_14,Football,Sports & Outdoors,5,367,UPI,63,CUST_176,RBhosale,rbhosale102@yahoo.com,LOC_26,Purnia,Returning
+ORD_00075,14/03/24,Pending,5685,INR,PD_03,Microwave,Home & Kitchen,5,98,PayPal,73,CUST_079,NPatel,npatel462@outlook.com,LOC_29,Jalandhar,Returning
+ORD_00078,04/03/24,Pending,14697,INR,PD_14,Football,Sports & Outdoors,4,226,PayPal,47,CUST_137,SBhosale,sbhosale720@outlook.com,LOC_37,Ahmedabad,VIP
+ORD_00079,22/02/24,Completed,2260,INR,PD_03,Microwave,Home & Kitchen,1,263,PayPal,99,CUST_166,RBhosale,rbhosale753@yahoo.com,LOC_16,Howrah,New
+ORD_00081,01/03/24,Pending,7701,INR,PD_14,Football,Sports & Outdoors,2,312,PayPal,29,CUST_273,SKumar,skumar711@outlook.com,LOC_23,Gwalior,Returning
+ORD_00086,19/03/24,Pending,18341,INR,PD_03,Microwave,Home & Kitchen,5,459,Net Banking,40,CUST_095,RGupta,rgupta782@yahoo.com,LOC_45,Tiruchirappalli,Returning
+ORD_00088,17/03/24,Pending,4502,INR,PD_03,Microwave,Home & Kitchen,2,225,PayPal,29,CUST_074,PGupta,pgupta265@outlook.com,LOC_24,Kanpur,Returning
+ORD_00090,17/03/24,Completed,6158,INR,PD_14,Football,Sports & Outdoors,2,355,Credit Card,39,CUST_008,SPatel,spatel194@yahoo.com,LOC_08,Kota,New
+ORD_00112,18/02/24,Pending,5939,INR,PD_03,Microwave,Home & Kitchen,3,425,PayPal,31,CUST_296,KVerma,kverma721@yahoo.com,LOC_46,Bhopal,Returning
+ORD_00129,10/03/24,Canceled,4353,INR,PD_03,Microwave,Home & Kitchen,1,391,PayPal,73,CUST_125,SSharma,ssharma498@yahoo.com,LOC_25,Salem,VIP
+ORD_00157,23/02/24,Pending,7322,INR,PD_14,Football,Sports & Outdoors,2,275,Net Banking,81,CUST_256,SSharma,ssharma507@yahoo.com,LOC_06,Rajkot,New
+ORD_00162,05/02/24,Pending,6510,INR,PD_03,Microwave,Home & Kitchen,2,445,UPI,39,CUST_018,NJoshi,njoshi963@gmail.com,LOC_18,Jabalpur,New
+ORD_00169,11/03/24,Canceled,1248,INR,PD_03,Microwave,Home & Kitchen,2,312,PayPal,68,CUST_295,APatel,apatel378@yahoo.com,LOC_45,Tiruchirappalli,VIP
+ORD_00173,13/02/24,Pending,8417,INR,PD_14,Football,Sports & Outdoors,4,233,Net Banking,58,CUST_204,NBhosale,nbhosale984@gmail.com,LOC_04,Pune,Returning
+ORD_00179,21/02/24,Canceled,1268,INR,PD_03,Microwave,Home & Kitchen,2,465,Net Banking,57,CUST_110,SSharma,ssharma670@gmail.com,LOC_10,Patna,New
+ORD_00195,14/02/24,Completed,4629,INR,PD_03,Microwave,Home & Kitchen,1,106,UPI,95,CUST_121,KKumar,kkumar888@outlook.com,LOC_21,Prayagraj,VIP
+ORD_00196,26/03/24,Completed,10018,INR,PD_03,Microwave,Home & Kitchen,2,1,PayPal,55,CUST_199,NBhosale,nbhosale418@outlook.com,LOC_49,Varanasi,New
+ORD_00204,18/02/24,Canceled,6578,INR,PD_03,Microwave,Home & Kitchen,5,33,UPI,36,CUST_006,RSharma,rsharma877@gmail.com,LOC_06,Rajkot,VIP
+ORD_00213,14/02/24,Completed,2633,INR,PD_03,Microwave,Home & Kitchen,3,295,Net Banking,84,CUST_120,SVerma,sverma525@gmail.com,LOC_20,Siliguri,New
+ORD_00223,15/03/24,Canceled,10863,INR,PD_03,Microwave,Home & Kitchen,3,56,Net Banking,56,CUST_062,SGupta,sgupta309@outlook.com,LOC_12,Muzaffarpur,VIP
+ORD_00229,08/03/24,Pending,2444,INR,PD_14,Football,Sports & Outdoors,1,294,Net Banking,74,CUST_271,RJoshi,rjoshi722@gmail.com,LOC_21,Prayagraj,New
+ORD_00234,16/02/24,Completed,8594,INR,PD_14,Football,Sports & Outdoors,3,372,PayPal,38,CUST_292,KKumar,kkumar564@yahoo.com,LOC_42,Mangalore,New
+ORD_00254,25/03/24,Canceled,2614,INR,PD_03,Microwave,Home & Kitchen,3,259,Credit Card,89,CUST_233,RSharma,rsharma679@outlook.com,LOC_33,Bikaner,VIP
+ORD_00257,20/03/24,Canceled,7220,INR,PD_14,Football,Sports & Outdoors,2,312,Net Banking,56,CUST_160,NPatel,npatel838@gmail.com,LOC_10,Patna,Returning
+ORD_00260,24/03/24,Completed,21926,INR,PD_14,Football,Sports & Outdoors,5,214,PayPal,40,CUST_201,RBhosale,rbhosale610@outlook.com,LOC_01,Ludhiana,Returning
+ORD_00281,28/02/24,Pending,7018,INR,PD_14,Football,Sports & Outdoors,3,63,Net Banking,67,CUST_007,KJoshi,kjoshi384@gmail.com,LOC_07,Udaipur,New
+ORD_00298,08/02/24,Completed,5910,INR,PD_03,Microwave,Home & Kitchen,2,260,PayPal,48,CUST_211,SVerma,sverma822@yahoo.com,LOC_11,Mysore,Returning
+ORD_00336,16/03/24,Completed,10585,INR,PD_14,Football,Sports & Outdoors,3,77,Net Banking,72,CUST_276,SVerma,sverma508@yahoo.com,LOC_26,Purnia,VIP
+ORD_00337,17/03/24,Completed,19396,INR,PD_14,Football,Sports & Outdoors,5,446,PayPal,27,CUST_038,SVerma,sverma629@yahoo.com,LOC_38,Kolkata,New
+ORD_00341,17/03/24,Completed,4738,INR,PD_14,Football,Sports & Outdoors,2,394,Net Banking,56,CUST_042,RDeshmukh,rdeshmukh385@outlook.com,LOC_42,Mangalore,Returning
+ORD_00342,31/03/24,Canceled,12003,INR,PD_14,Football,Sports & Outdoors,3,178,UPI,91,CUST_212,PVerma,pverma137@gmail.com,LOC_12,Muzaffarpur,VIP
+ORD_00347,15/02/24,Canceled,775,INR,PD_14,Football,Sports & Outdoors,2,342,PayPal,87,CUST_141,NPatel,npatel813@yahoo.com,LOC_41,Jodhpur,VIP
+ORD_00363,16/03/24,Completed,16451,INR,PD_03,Microwave,Home & Kitchen,4,472,UPI,59,CUST_265,PKumar,pkumar638@gmail.com,LOC_15,Bhagalpur,VIP
+ORD_00366,05/03/24,Pending,9543,INR,PD_03,Microwave,Home & Kitchen,2,447,UPI,30,CUST_176,RBhosale,rbhosale102@yahoo.com,LOC_26,Purnia,Returning
+ORD_00375,25/02/24,Completed,9538,INR,PD_14,Football,Sports & Outdoors,3,229,PayPal,68,CUST_130,SDeshmukh,sdeshmukh565@yahoo.com,LOC_30,Jaipur,Returning
+ORD_00386,23/02/24,Canceled,18385,INR,PD_14,Football,Sports & Outdoors,4,253,Net Banking,26,CUST_154,KVerma,kverma668@gmail.com,LOC_04,Pune,VIP
+ORD_00396,21/03/24,Pending,8019,INR,PD_14,Football,Sports & Outdoors,4,282,Net Banking,61,CUST_249,PSharma,psharma138@yahoo.com,LOC_49,Varanasi,Returning
+ORD_00402,17/02/24,Pending,18168,INR,PD_03,Microwave,Home & Kitchen,4,335,Net Banking,63,CUST_238,SBhosale,sbhosale192@yahoo.com,LOC_38,Kolkata,Returning
+ORD_00417,12/02/24,Pending,23268,INR,PD_14,Football,Sports & Outdoors,5,336,Credit Card,24,CUST_185,KJoshi,kjoshi718@yahoo.com,LOC_35,Vadodara,New
+ORD_00421,25/03/24,Completed,726,INR,PD_14,Football,Sports & Outdoors,1,223,UPI,49,CUST_002,NBhosale,nbhosale854@gmail.com,LOC_02,Bangalore,VIP
+ORD_00429,07/03/24,Completed,335,INR,PD_14,Football,Sports & Outdoors,1,45,UPI,65,CUST_052,RDeshmukh,rdeshmukh270@yahoo.com,LOC_02,Bangalore,Returning
+ORD_00432,05/02/24,Completed,6680,INR,PD_03,Microwave,Home & Kitchen,3,252,Net Banking,38,CUST_152,SGupta,sgupta710@outlook.com,LOC_02,Bangalore,Returning
+ORD_00457,17/03/24,Completed,17911,INR,PD_14,Football,Sports & Outdoors,5,199,PayPal,20,CUST_121,KKumar,kkumar888@outlook.com,LOC_21,Prayagraj,VIP
+ORD_00460,11/03/24,Pending,13099,INR,PD_03,Microwave,Home & Kitchen,5,305,Credit Card,69,CUST_043,NBhosale,nbhosale840@outlook.com,LOC_43,Gaya,VIP
+ORD_00473,29/02/24,Pending,1999,INR,PD_14,Football,Sports & Outdoors,1,152,UPI,24,CUST_251,KVerma,kverma479@outlook.com,LOC_01,Ludhiana,VIP
+ORD_00485,03/03/24,Pending,6863,INR,PD_03,Microwave,Home & Kitchen,2,422,UPI,47,CUST_222,RJoshi,rjoshi483@yahoo.com,LOC_22,Bathinda,New
+ORD_00490,04/02/24,Pending,2176,INR,PD_14,Football,Sports & Outdoors,3,190,UPI,41,CUST_038,SVerma,sverma629@yahoo.com,LOC_38,Kolkata,New
+ORD_00499,23/02/24,Pending,4625,INR,PD_03,Microwave,Home & Kitchen,1,373,UPI,69,CUST_158,SKumar,skumar863@outlook.com,LOC_08,Kota,Returning
+ORD_00502,22/03/24,Completed,9780,INR,PD_14,Football,Sports & Outdoors,4,330,Net Banking,26,CUST_224,PBhosale,pbhosale180@outlook.com,LOC_24,Kanpur,Returning
+ORD_00508,06/03/24,Canceled,13626,INR,PD_14,Football,Sports & Outdoors,4,42,PayPal,88,CUST_178,RVerma,rverma172@outlook.com,LOC_28,Amritsar,New
+ORD_00515,18/03/24,Completed,6282,INR,PD_03,Microwave,Home & Kitchen,2,64,Credit Card,54,CUST_127,AKumar,akumar706@outlook.com,LOC_27,Surat,VIP
+ORD_00521,15/02/24,Pending,4291,INR,PD_03,Microwave,Home & Kitchen,1,411,PayPal,73,CUST_085,RDeshmukh,rdeshmukh328@gmail.com,LOC_35,Vadodara,VIP
+ORD_00531,30/03/24,Completed,4762,INR,PD_14,Football,Sports & Outdoors,2,47,Net Banking,25,CUST_270,RVerma,rverma829@yahoo.com,LOC_20,Siliguri,New
+ORD_00543,24/02/24,Canceled,2310,INR,PD_03,Microwave,Home & Kitchen,2,101,Credit Card,71,CUST_077,PKumar,pkumar230@gmail.com,LOC_27,Surat,Returning
+ORD_00575,19/02/24,Completed,7579,INR,PD_14,Football,Sports & Outdoors,2,37,UPI,24,CUST_082,KDeshmukh,kdeshmukh373@gmail.com,LOC_32,Chennai,VIP
+ORD_00576,11/02/24,Pending,2897,INR,PD_03,Microwave,Home & Kitchen,3,37,PayPal,63,CUST_097,KKumar,kkumar793@outlook.com,LOC_47,Madurai,New
+ORD_00580,04/02/24,Pending,7519,INR,PD_03,Microwave,Home & Kitchen,3,121,Net Banking,32,CUST_175,RBhosale,rbhosale345@gmail.com,LOC_25,Salem,VIP
+ORD_00594,05/03/24,Pending,13472,INR,PD_14,Football,Sports & Outdoors,5,438,Credit Card,55,CUST_286,SPatel,spatel880@yahoo.com,LOC_36,Asansol,VIP
+ORD_00601,02/02/24,Pending,8808,INR,PD_03,Microwave,Home & Kitchen,4,459,UPI,67,CUST_067,SGupta,sgupta261@yahoo.com,LOC_17,Agra,VIP
+ORD_00606,21/03/24,Canceled,12584,INR,PD_14,Football,Sports & Outdoors,3,206,Credit Card,37,CUST_263,PSharma,psharma466@gmail.com,LOC_13,Ujjain,VIP
+ORD_00615,10/03/24,Pending,783,INR,PD_03,Microwave,Home & Kitchen,5,114,UPI,52,CUST_067,SGupta,sgupta261@yahoo.com,LOC_17,Agra,VIP
+ORD_00624,04/03/24,Pending,19586,INR,PD_03,Microwave,Home & Kitchen,5,464,PayPal,65,CUST_108,PSharma,psharma868@gmail.com,LOC_08,Kota,Returning
+ORD_00627,27/02/24,Pending,5465,INR,PD_03,Microwave,Home & Kitchen,3,381,UPI,59,CUST_160,NPatel,npatel838@gmail.com,LOC_10,Patna,Returning
+ORD_00634,03/03/24,Completed,2707,INR,PD_03,Microwave,Home & Kitchen,2,295,PayPal,40,CUST_108,PSharma,psharma868@gmail.com,LOC_08,Kota,Returning
+ORD_00635,26/02/24,Pending,18010,INR,PD_03,Microwave,Home & Kitchen,5,324,Net Banking,74,CUST_265,PKumar,pkumar638@gmail.com,LOC_15,Bhagalpur,VIP
+ORD_00665,07/02/24,Pending,12888,INR,PD_03,Microwave,Home & Kitchen,3,267,PayPal,99,CUST_061,NSharma,nsharma734@gmail.com,LOC_11,Mysore,Returning
+ORD_00695,19/03/24,Canceled,23116,INR,PD_03,Microwave,Home & Kitchen,5,442,Net Banking,48,CUST_191,PJoshi,pjoshi521@outlook.com,LOC_41,Jodhpur,Returning
+ORD_00704,05/02/24,Canceled,18948,INR,PD_03,Microwave,Home & Kitchen,4,281,UPI,65,CUST_004,NDeshmukh,ndeshmukh617@outlook.com,LOC_04,Pune,New
+ORD_00705,05/03/24,Completed,9059,INR,PD_14,Football,Sports & Outdoors,5,489,PayPal,43,CUST_171,RDeshmukh,rdeshmukh221@outlook.com,LOC_21,Prayagraj,Returning
+ORD_00709,25/02/24,Pending,2568,INR,PD_14,Football,Sports & Outdoors,1,195,UPI,34,CUST_183,RKumar,rkumar378@outlook.com,LOC_33,Bikaner,VIP
+ORD_00719,23/02/24,Canceled,2031,INR,PD_14,Football,Sports & Outdoors,5,358,Credit Card,29,CUST_225,NVerma,nverma697@gmail.com,LOC_25,Salem,New
+ORD_00727,26/03/24,Completed,1334,INR,PD_14,Football,Sports & Outdoors,1,343,Net Banking,92,CUST_148,RJoshi,rjoshi972@gmail.com,LOC_48,Coimbatore,New
+ORD_00749,24/03/24,Pending,8518,INR,PD_14,Football,Sports & Outdoors,2,207,Net Banking,65,CUST_199,NBhosale,nbhosale418@outlook.com,LOC_49,Varanasi,New
+ORD_00750,29/02/24,Completed,397,INR,PD_14,Football,Sports & Outdoors,4,256,PayPal,37,CUST_024,SPatel,spatel873@gmail.com,LOC_24,Kanpur,New
+ORD_00773,02/03/24,Pending,6069,INR,PD_03,Microwave,Home & Kitchen,2,286,UPI,91,CUST_001,RSharma,rsharma859@yahoo.com,LOC_01,Ludhiana,New
+ORD_00774,19/03/24,Completed,14274,INR,PD_03,Microwave,Home & Kitchen,5,396,Credit Card,70,CUST_186,RDeshmukh,rdeshmukh790@outlook.com,LOC_36,Asansol,VIP
+ORD_00780,19/02/24,Completed,731,INR,PD_03,Microwave,Home & Kitchen,4,103,Credit Card,86,CUST_176,RBhosale,rbhosale102@yahoo.com,LOC_26,Purnia,Returning
+ORD_00797,25/03/24,Canceled,3146,INR,PD_14,Football,Sports & Outdoors,2,427,UPI,51,CUST_039,NDeshmukh,ndeshmukh165@yahoo.com,LOC_39,Gandhinagar,New
+ORD_00823,14/03/24,Pending,802,INR,PD_14,Football,Sports & Outdoors,1,372,Credit Card,50,CUST_154,KVerma,kverma668@gmail.com,LOC_04,Pune,VIP
+ORD_00837,25/03/24,Pending,8574,INR,PD_03,Microwave,Home & Kitchen,4,83,PayPal,69,CUST_270,RVerma,rverma829@yahoo.com,LOC_20,Siliguri,New
+ORD_00847,08/02/24,Canceled,9272,INR,PD_14,Football,Sports & Outdoors,3,424,PayPal,21,CUST_159,SVerma,sverma377@yahoo.com,LOC_09,Hubli,Returning
+ORD_00860,23/02/24,Pending,9478,INR,PD_03,Microwave,Home & Kitchen,2,95,Net Banking,89,CUST_143,SPatel,spatel618@outlook.com,LOC_43,Gaya,Returning
+ORD_00864,24/03/24,Pending,1605,INR,PD_03,Microwave,Home & Kitchen,3,337,PayPal,88,CUST_164,NJoshi,njoshi283@yahoo.com,LOC_14,Belgaum,New
+ORD_00872,18/03/24,Completed,11140,INR,PD_03,Microwave,Home & Kitchen,5,270,UPI,25,CUST_119,PDeshmukh,pdeshmukh165@yahoo.com,LOC_19,Lucknow,Returning
+ORD_00888,24/03/24,Completed,5908,INR,PD_03,Microwave,Home & Kitchen,4,249,UPI,93,CUST_105,ASharma,asharma350@yahoo.com,LOC_05,Nagpur,VIP
+ORD_00893,06/02/24,Completed,19690,INR,PD_14,Football,Sports & Outdoors,4,294,Net Banking,84,CUST_059,APatel,apatel971@gmail.com,LOC_09,Hubli,New
+ORD_00902,13/02/24,Canceled,1444,INR,PD_03,Microwave,Home & Kitchen,4,473,UPI,49,CUST_193,SPatel,spatel422@yahoo.com,LOC_43,Gaya,Returning
+ORD_00911,06/03/24,Completed,11863,INR,PD_14,Football,Sports & Outdoors,3,443,PayPal,96,CUST_049,SBhosale,sbhosale532@gmail.com,LOC_49,Varanasi,Returning
+ORD_00912,07/03/24,Canceled,7986,INR,PD_03,Microwave,Home & Kitchen,2,494,Credit Card,78,CUST_206,AGupta,agupta843@yahoo.com,LOC_06,Rajkot,VIP
+ORD_00922,18/03/24,Completed,1768,INR,PD_14,Football,Sports & Outdoors,3,285,PayPal,88,CUST_110,SSharma,ssharma670@gmail.com,LOC_10,Patna,New
+ORD_00941,17/03/24,Pending,2212,INR,PD_14,Football,Sports & Outdoors,2,46,UPI,34,CUST_086,NKumar,nkumar436@yahoo.com,LOC_36,Asansol,New
+ORD_00944,12/02/24,Canceled,6600,INR,PD_03,Microwave,Home & Kitchen,5,83,Credit Card,38,CUST_186,RDeshmukh,rdeshmukh790@outlook.com,LOC_36,Asansol,VIP
+ORD_00948,01/03/24,Pending,3531,INR,PD_14,Football,Sports & Outdoors,2,301,Net Banking,80,CUST_050,SDeshmukh,sdeshmukh995@gmail.com,LOC_50,Mumbai,Returning
+ORD_00966,11/03/24,Completed,8578,INR,PD_03,Microwave,Home & Kitchen,3,202,PayPal,92,CUST_160,NPatel,npatel838@gmail.com,LOC_10,Patna,Returning
+ORD_00969,31/03/24,Canceled,14061,INR,PD_03,Microwave,Home & Kitchen,5,236,Credit Card,72,CUST_046,SKumar,skumar520@yahoo.com,LOC_46,Bhopal,VIP
+ORD_00970,07/03/24,Canceled,12531,INR,PD_03,Microwave,Home & Kitchen,5,289,Credit Card,60,CUST_131,KGupta,kgupta870@yahoo.com,LOC_31,Patiala,Returning
+ORD_00974,03/03/24,Completed,2144,INR,PD_03,Microwave,Home & Kitchen,1,211,UPI,31,CUST_285,PVerma,pverma329@gmail.com,LOC_35,Vadodara,Returning
+ORD_00991,11/03/24,Pending,24530,INR,PD_03,Microwave,Home & Kitchen,5,322,UPI,77,CUST_072,SGupta,sgupta966@gmail.com,LOC_22,Bathinda,New
+ORD_00992,06/02/24,Pending,4892,INR,PD_03,Microwave,Home & Kitchen,3,365,PayPal,88,CUST_072,SGupta,sgupta966@gmail.com,LOC_22,Bathinda,New
+ORD_00993,20/02/24,Canceled,3965,INR,PD_14,Football,Sports & Outdoors,1,49,Net Banking,78,CUST_066,RBhosale,rbhosale457@gmail.com,LOC_16,Howrah,New
+ORD_01004,05/02/24,Canceled,6086,INR,PD_14,Football,Sports & Outdoors,4,157,Credit Card,71,CUST_007,KJoshi,kjoshi384@gmail.com,LOC_07,Udaipur,New
+ORD_01013,06/03/24,Completed,13584,INR,PD_14,Football,Sports & Outdoors,4,195,PayPal,75,CUST_281,PSharma,psharma700@outlook.com,LOC_31,Patiala,VIP
+ORD_01014,25/02/24,Pending,4951,INR,PD_03,Microwave,Home & Kitchen,4,96,Net Banking,91,CUST_024,SPatel,spatel873@gmail.com,LOC_24,Kanpur,New
+ORD_01030,04/03/24,Completed,12207,INR,PD_03,Microwave,Home & Kitchen,3,42,UPI,36,CUST_169,RPatel,rpatel510@yahoo.com,LOC_19,Lucknow,New
+ORD_01052,24/03/24,Pending,11323,INR,PD_14,Football,Sports & Outdoors,4,30,PayPal,53,CUST_140,KDeshmukh,kdeshmukh177@outlook.com,LOC_40,Aurangabad,VIP
+ORD_01053,11/03/24,Pending,2466,INR,PD_03,Microwave,Home & Kitchen,4,251,PayPal,45,CUST_018,NJoshi,njoshi963@gmail.com,LOC_18,Jabalpur,New
+ORD_01066,02/02/24,Canceled,2518,INR,PD_03,Microwave,Home & Kitchen,2,18,PayPal,44,CUST_179,RDeshmukh,rdeshmukh535@gmail.com,LOC_29,Jalandhar,VIP
+ORD_01075,23/03/24,Canceled,1605,INR,PD_03,Microwave,Home & Kitchen,1,218,Net Banking,63,CUST_200,KPatel,kpatel330@gmail.com,LOC_50,Mumbai,Returning
+ORD_01076,06/03/24,Completed,2861,INR,PD_14,Football,Sports & Outdoors,3,499,UPI,93,CUST_265,PKumar,pkumar638@gmail.com,LOC_15,Bhagalpur,VIP
+ORD_01085,07/03/24,Completed,8653,INR,PD_03,Microwave,Home & Kitchen,3,214,PayPal,20,CUST_294,RSharma,rsharma259@gmail.com,LOC_44,Nashik,VIP
+ORD_01104,23/03/24,Canceled,17680,INR,PD_14,Football,Sports & Outdoors,4,201,Credit Card,81,CUST_254,SDeshmukh,sdeshmukh554@yahoo.com,LOC_04,Pune,New
+ORD_01114,17/03/24,Completed,9305,INR,PD_03,Microwave,Home & Kitchen,3,89,PayPal,91,CUST_057,ASharma,asharma865@yahoo.com,LOC_07,Udaipur,New
+ORD_01115,08/02/24,Canceled,5653,INR,PD_14,Football,Sports & Outdoors,2,122,Net Banking,89,CUST_017,PVerma,pverma488@yahoo.com,LOC_17,Agra,VIP
+ORD_01116,21/02/24,Pending,8753,INR,PD_03,Microwave,Home & Kitchen,5,385,UPI,48,CUST_107,NKumar,nkumar606@yahoo.com,LOC_07,Udaipur,New
+ORD_01118,25/03/24,Completed,16163,INR,PD_14,Football,Sports & Outdoors,4,256,Net Banking,87,CUST_271,RJoshi,rjoshi722@gmail.com,LOC_21,Prayagraj,New
+ORD_01156,02/02/24,Pending,2988,INR,PD_03,Microwave,Home & Kitchen,1,262,PayPal,93,CUST_163,RPatel,rpatel952@gmail.com,LOC_13,Ujjain,Returning
+ORD_01167,15/02/24,Completed,5211,INR,PD_03,Microwave,Home & Kitchen,2,14,PayPal,35,CUST_214,SSharma,ssharma839@gmail.com,LOC_14,Belgaum,Returning
+ORD_01173,10/02/24,Canceled,5975,INR,PD_03,Microwave,Home & Kitchen,2,14,UPI,31,CUST_281,PSharma,psharma700@outlook.com,LOC_31,Patiala,VIP
+ORD_01187,19/03/24,Completed,19281,INR,PD_03,Microwave,Home & Kitchen,4,500,Credit Card,33,CUST_219,RDeshmukh,rdeshmukh864@gmail.com,LOC_19,Lucknow,Returning
+ORD_01193,25/02/24,Canceled,821,INR,PD_14,Football,Sports & Outdoors,4,497,UPI,42,CUST_247,SDeshmukh,sdeshmukh763@gmail.com,LOC_47,Madurai,VIP
+ORD_01207,11/02/24,Completed,2602,INR,PD_14,Football,Sports & Outdoors,1,58,UPI,63,CUST_161,RBhosale,rbhosale296@gmail.com,LOC_11,Mysore,VIP
+ORD_01224,16/02/24,Pending,1253,INR,PD_14,Football,Sports & Outdoors,1,98,Net Banking,23,CUST_293,SGupta,sgupta838@yahoo.com,LOC_43,Gaya,VIP
+ORD_01225,13/03/24,Completed,18595,INR,PD_03,Microwave,Home & Kitchen,4,223,PayPal,74,CUST_242,SPatel,spatel244@gmail.com,LOC_42,Mangalore,VIP
+ORD_01233,27/03/24,Canceled,10943,INR,PD_14,Football,Sports & Outdoors,3,209,Credit Card,52,CUST_141,NPatel,npatel813@yahoo.com,LOC_41,Jodhpur,VIP
+ORD_01242,28/03/24,Completed,11007,INR,PD_14,Football,Sports & Outdoors,4,367,PayPal,74,CUST_068,RSharma,rsharma783@outlook.com,LOC_18,Jabalpur,Returning
+ORD_01246,11/02/24,Completed,14443,INR,PD_14,Football,Sports & Outdoors,3,42,PayPal,34,CUST_133,AJoshi,ajoshi329@outlook.com,LOC_33,Bikaner,New
+ORD_01253,17/03/24,Canceled,9453,INR,PD_03,Microwave,Home & Kitchen,2,60,Net Banking,21,CUST_148,RJoshi,rjoshi972@gmail.com,LOC_48,Coimbatore,New
+ORD_01290,30/03/24,Pending,11612,INR,PD_03,Microwave,Home & Kitchen,3,223,UPI,30,CUST_183,RKumar,rkumar378@outlook.com,LOC_33,Bikaner,VIP
+ORD_01296,21/02/24,Canceled,3119,INR,PD_03,Microwave,Home & Kitchen,1,448,Net Banking,58,CUST_283,KSharma,ksharma394@outlook.com,LOC_33,Bikaner,Returning
+ORD_01312,02/02/24,Completed,11606,INR,PD_14,Football,Sports & Outdoors,4,229,UPI,75,CUST_258,ASharma,asharma905@yahoo.com,LOC_08,Kota,New
+ORD_01313,15/02/24,Canceled,7788,INR,PD_03,Microwave,Home & Kitchen,2,176,PayPal,76,CUST_002,NBhosale,nbhosale854@gmail.com,LOC_02,Bangalore,VIP
+ORD_01318,20/02/24,Completed,3108,INR,PD_14,Football,Sports & Outdoors,1,482,PayPal,83,CUST_128,APatel,apatel758@yahoo.com,LOC_28,Amritsar,New
+ORD_01373,06/02/24,Completed,13352,INR,PD_03,Microwave,Home & Kitchen,5,195,Credit Card,52,CUST_226,SGupta,sgupta570@yahoo.com,LOC_26,Purnia,VIP
+ORD_01380,27/02/24,Completed,2560,INR,PD_14,Football,Sports & Outdoors,1,237,Net Banking,90,CUST_282,SPatel,spatel520@yahoo.com,LOC_32,Chennai,VIP
+ORD_01387,14/02/24,Canceled,11581,INR,PD_03,Microwave,Home & Kitchen,4,431,UPI,100,CUST_233,RSharma,rsharma679@outlook.com,LOC_33,Bikaner,VIP
+ORD_01388,08/03/24,Completed,1132,INR,PD_03,Microwave,Home & Kitchen,1,378,UPI,88,CUST_145,KJoshi,kjoshi750@yahoo.com,LOC_45,Tiruchirappalli,VIP
+ORD_01417,19/02/24,Pending,297,INR,PD_03,Microwave,Home & Kitchen,1,286,Net Banking,26,CUST_176,RBhosale,rbhosale102@yahoo.com,LOC_26,Purnia,Returning
+ORD_01420,22/02/24,Canceled,790,INR,PD_14,Football,Sports & Outdoors,3,232,PayPal,86,CUST_005,NKumar,nkumar325@yahoo.com,LOC_05,Nagpur,VIP
+ORD_01422,17/02/24,Pending,5419,INR,PD_14,Football,Sports & Outdoors,5,326,Net Banking,85,CUST_140,KDeshmukh,kdeshmukh177@outlook.com,LOC_40,Aurangabad,VIP
+ORD_01430,08/03/24,Pending,13718,INR,PD_14,Football,Sports & Outdoors,5,436,UPI,94,CUST_151,PVerma,pverma317@yahoo.com,LOC_01,Ludhiana,Returning
+ORD_01442,22/03/24,Completed,868,INR,PD_14,Football,Sports & Outdoors,1,451,PayPal,36,CUST_287,NKumar,nkumar965@outlook.com,LOC_37,Ahmedabad,VIP
+ORD_01448,21/02/24,Canceled,17205,INR,PD_03,Microwave,Home & Kitchen,4,237,UPI,42,CUST_289,RJoshi,rjoshi459@gmail.com,LOC_39,Gandhinagar,New
+ORD_01455,25/02/24,Completed,12417,INR,PD_14,Football,Sports & Outdoors,3,162,PayPal,54,CUST_143,SPatel,spatel618@outlook.com,LOC_43,Gaya,Returning
+ORD_01460,30/03/24,Pending,2110,INR,PD_14,Football,Sports & Outdoors,2,437,Credit Card,89,CUST_255,SPatel,spatel802@yahoo.com,LOC_05,Nagpur,VIP
+ORD_01466,20/02/24,Canceled,3455,INR,PD_03,Microwave,Home & Kitchen,3,295,Credit Card,36,CUST_284,SPatel,spatel691@outlook.com,LOC_34,Indore,New
+ORD_01473,30/03/24,Pending,1556,INR,PD_03,Microwave,Home & Kitchen,1,101,UPI,28,CUST_178,RVerma,rverma172@outlook.com,LOC_28,Amritsar,New
+ORD_01480,30/03/24,Canceled,10403,INR,PD_14,Football,Sports & Outdoors,5,269,Net Banking,62,CUST_148,RJoshi,rjoshi972@gmail.com,LOC_48,Coimbatore,New
+ORD_01485,06/03/24,Pending,2746,INR,PD_14,Football,Sports & Outdoors,2,140,Credit Card,100,CUST_299,SGupta,sgupta146@gmail.com,LOC_49,Varanasi,Returning
+ORD_01496,13/03/24,Canceled,1622,INR,PD_14,Football,Sports & Outdoors,4,428,Credit Card,86,CUST_298,SKumar,skumar213@yahoo.com,LOC_48,Coimbatore,VIP
+ORD_01498,24/02/24,Completed,6584,INR,PD_03,Microwave,Home & Kitchen,4,475,PayPal,51,CUST_286,SPatel,spatel880@yahoo.com,LOC_36,Asansol,VIP
+ORD_01540,17/02/24,Canceled,5482,INR,PD_03,Microwave,Home & Kitchen,4,424,UPI,74,CUST_004,NDeshmukh,ndeshmukh617@outlook.com,LOC_04,Pune,New
+ORD_01542,21/03/24,Pending,763,INR,PD_03,Microwave,Home & Kitchen,1,325,PayPal,93,CUST_079,NPatel,npatel462@outlook.com,LOC_29,Jalandhar,Returning
+ORD_01553,25/02/24,Canceled,1582,INR,PD_03,Microwave,Home & Kitchen,1,267,UPI,20,CUST_019,AJoshi,ajoshi510@yahoo.com,LOC_19,Lucknow,New
+ORD_01564,20/02/24,Canceled,7982,INR,PD_14,Football,Sports & Outdoors,2,407,Net Banking,31,CUST_151,PVerma,pverma317@yahoo.com,LOC_01,Ludhiana,Returning
+ORD_01574,13/02/24,Pending,1604,INR,PD_14,Football,Sports & Outdoors,3,302,Net Banking,88,CUST_288,AGupta,agupta129@gmail.com,LOC_38,Kolkata,Returning
+ORD_01579,02/03/24,Canceled,5508,INR,PD_03,Microwave,Home & Kitchen,5,140,PayPal,93,CUST_130,SDeshmukh,sdeshmukh565@yahoo.com,LOC_30,Jaipur,Returning
+ORD_01595,08/02/24,Pending,1054,INR,PD_03,Microwave,Home & Kitchen,1,59,PayPal,30,CUST_259,PDeshmukh,pdeshmukh170@outlook.com,LOC_09,Hubli,New
+ORD_01597,13/03/24,Canceled,7800,INR,PD_14,Football,Sports & Outdoors,5,196,Net Banking,81,CUST_042,RDeshmukh,rdeshmukh385@outlook.com,LOC_42,Mangalore,Returning
+ORD_01609,23/02/24,Pending,9229,INR,PD_03,Microwave,Home & Kitchen,2,110,PayPal,95,CUST_167,AGupta,agupta580@yahoo.com,LOC_17,Agra,Returning
+ORD_01648,14/03/24,Pending,3056,INR,PD_03,Microwave,Home & Kitchen,2,485,Credit Card,81,CUST_242,SPatel,spatel244@gmail.com,LOC_42,Mangalore,VIP
+ORD_01674,19/02/24,Completed,4370,INR,PD_03,Microwave,Home & Kitchen,2,356,Credit Card,36,CUST_207,SBhosale,sbhosale557@outlook.com,LOC_07,Udaipur,Returning
+ORD_01676,25/02/24,Canceled,7073,INR,PD_03,Microwave,Home & Kitchen,2,384,Net Banking,85,CUST_172,NKumar,nkumar561@yahoo.com,LOC_22,Bathinda,Returning
+ORD_01677,01/02/24,Completed,9234,INR,PD_14,Football,Sports & Outdoors,4,105,PayPal,43,CUST_093,NJoshi,njoshi541@gmail.com,LOC_43,Gaya,VIP
+ORD_01687,14/02/24,Canceled,7516,INR,PD_03,Microwave,Home & Kitchen,4,166,Net Banking,54,CUST_242,SPatel,spatel244@gmail.com,LOC_42,Mangalore,VIP
+ORD_01706,23/02/24,Completed,4877,INR,PD_03,Microwave,Home & Kitchen,2,319,UPI,56,CUST_235,SDeshmukh,sdeshmukh751@gmail.com,LOC_35,Vadodara,VIP
+ORD_01707,23/03/24,Canceled,12068,INR,PD_14,Football,Sports & Outdoors,4,477,Credit Card,53,CUST_169,RPatel,rpatel510@yahoo.com,LOC_19,Lucknow,New
+ORD_01709,08/02/24,Canceled,15687,INR,PD_14,Football,Sports & Outdoors,4,417,Net Banking,28,CUST_287,NKumar,nkumar965@outlook.com,LOC_37,Ahmedabad,VIP
+ORD_01711,02/03/24,Canceled,7966,INR,PD_14,Football,Sports & Outdoors,3,253,Net Banking,74,CUST_203,NVerma,nverma664@gmail.com,LOC_03,Durgapur,Returning
+ORD_01712,25/02/24,Pending,14136,INR,PD_14,Football,Sports & Outdoors,5,70,Net Banking,51,CUST_282,SPatel,spatel520@yahoo.com,LOC_32,Chennai,VIP
+ORD_01713,06/03/24,Completed,22196,INR,PD_14,Football,Sports & Outdoors,5,252,Net Banking,88,CUST_045,NPatel,npatel199@outlook.com,LOC_45,Tiruchirappalli,Returning
+ORD_01715,14/02/24,Completed,1861,INR,PD_03,Microwave,Home & Kitchen,1,185,UPI,20,CUST_066,RBhosale,rbhosale457@gmail.com,LOC_16,Howrah,New
+ORD_01716,30/03/24,Completed,19457,INR,PD_14,Football,Sports & Outdoors,5,490,Credit Card,37,CUST_213,SPatel,spatel995@yahoo.com,LOC_13,Ujjain,New
+ORD_01723,19/03/24,Canceled,2985,INR,PD_03,Microwave,Home & Kitchen,2,240,UPI,37,CUST_195,SKumar,skumar155@gmail.com,LOC_45,Tiruchirappalli,VIP
+ORD_01729,04/02/24,Completed,3564,INR,PD_03,Microwave,Home & Kitchen,2,205,Net Banking,99,CUST_279,RPatel,rpatel951@gmail.com,LOC_29,Jalandhar,New
+ORD_01739,09/02/24,Canceled,9594,INR,PD_03,Microwave,Home & Kitchen,3,371,Credit Card,65,CUST_204,NBhosale,nbhosale984@gmail.com,LOC_04,Pune,Returning
+ORD_01742,06/02/24,Canceled,4262,INR,PD_03,Microwave,Home & Kitchen,3,77,Credit Card,79,CUST_287,NKumar,nkumar965@outlook.com,LOC_37,Ahmedabad,VIP
+ORD_01769,16/03/24,Completed,16025,INR,PD_03,Microwave,Home & Kitchen,4,243,Net Banking,88,CUST_234,AVerma,averma952@yahoo.com,LOC_34,Indore,New
+ORD_01773,17/02/24,Canceled,2757,INR,PD_03,Microwave,Home & Kitchen,3,405,Credit Card,72,CUST_257,RVerma,rverma193@outlook.com,LOC_07,Udaipur,New
+ORD_01786,22/03/24,Completed,13432,INR,PD_03,Microwave,Home & Kitchen,4,3,UPI,67,CUST_026,RKumar,rkumar490@outlook.com,LOC_26,Purnia,Returning
+ORD_01788,10/02/24,Pending,1484,INR,PD_03,Microwave,Home & Kitchen,4,7,UPI,23,CUST_198,SVerma,sverma224@gmail.com,LOC_48,Coimbatore,VIP
+ORD_01795,08/03/24,Pending,4112,INR,PD_14,Football,Sports & Outdoors,1,471,Credit Card,30,CUST_071,SDeshmukh,sdeshmukh803@outlook.com,LOC_21,Prayagraj,Returning
+ORD_01812,26/02/24,Completed,3146,INR,PD_03,Microwave,Home & Kitchen,2,351,UPI,55,CUST_092,AKumar,akumar101@outlook.com,LOC_42,Mangalore,VIP
+ORD_01818,23/02/24,Completed,10490,INR,PD_03,Microwave,Home & Kitchen,3,404,Credit Card,43,CUST_242,SPatel,spatel244@gmail.com,LOC_42,Mangalore,VIP
+ORD_01846,26/03/24,Canceled,11161,INR,PD_03,Microwave,Home & Kitchen,3,335,Credit Card,39,CUST_193,SPatel,spatel422@yahoo.com,LOC_43,Gaya,Returning
+ORD_01848,28/02/24,Completed,6576,INR,PD_14,Football,Sports & Outdoors,4,35,UPI,55,CUST_242,SPatel,spatel244@gmail.com,LOC_42,Mangalore,VIP
+ORD_01861,07/02/24,Completed,11940,INR,PD_03,Microwave,Home & Kitchen,5,375,Net Banking,20,CUST_164,NJoshi,njoshi283@yahoo.com,LOC_14,Belgaum,New
+ORD_01888,28/02/24,Canceled,13229,INR,PD_14,Football,Sports & Outdoors,5,88,UPI,92,CUST_065,SPatel,spatel175@outlook.com,LOC_15,Bhagalpur,New
+ORD_01918,11/03/24,Pending,24201,INR,PD_14,Football,Sports & Outdoors,5,178,Credit Card,94,CUST_284,SPatel,spatel691@outlook.com,LOC_34,Indore,New
+ORD_01943,02/02/24,Completed,15942,INR,PD_03,Microwave,Home & Kitchen,4,155,Credit Card,49,CUST_245,RKumar,rkumar942@outlook.com,LOC_45,Tiruchirappalli,Returning
+ORD_01947,22/02/24,Pending,15424,INR,PD_14,Football,Sports & Outdoors,5,180,Credit Card,44,CUST_253,SKumar,skumar386@gmail.com,LOC_03,Durgapur,VIP
+ORD_01965,22/02/24,Canceled,14736,INR,PD_14,Football,Sports & Outdoors,3,110,Net Banking,23,CUST_131,KGupta,kgupta870@yahoo.com,LOC_31,Patiala,Returning
+ORD_01969,19/02/24,Pending,2362,INR,PD_14,Football,Sports & Outdoors,3,127,Net Banking,89,CUST_216,KPatel,kpatel972@yahoo.com,LOC_16,Howrah,VIP
+ORD_01977,27/03/24,Pending,405,INR,PD_14,Football,Sports & Outdoors,1,94,UPI,84,CUST_101,NVerma,nverma912@outlook.com,LOC_01,Ludhiana,New
+ORD_01981,14/02/24,Pending,4297,INR,PD_03,Microwave,Home & Kitchen,1,39,UPI,50,CUST_132,RVerma,rverma119@outlook.com,LOC_32,Chennai,VIP
+ORD_01987,03/02/24,Canceled,6075,INR,PD_03,Microwave,Home & Kitchen,2,425,PayPal,94,CUST_040,NDeshmukh,ndeshmukh107@gmail.com,LOC_40,Aurangabad,VIP
+ORD_02000,27/03/24,Canceled,1414,INR,PD_14,Football,Sports & Outdoors,2,67,Net Banking,85,CUST_089,RSharma,rsharma211@outlook.com,LOC_39,Gandhinagar,Returning
+ORD_02004,16/03/24,Completed,9570,INR,PD_03,Microwave,Home & Kitchen,4,387,PayPal,81,CUST_196,SVerma,sverma740@yahoo.com,LOC_46,Bhopal,New
+ORD_02024,07/03/24,Canceled,3705,INR,PD_14,Football,Sports & Outdoors,1,34,PayPal,82,CUST_223,NKumar,nkumar679@outlook.com,LOC_23,Gwalior,New
+ORD_02060,06/03/24,Pending,9090,INR,PD_03,Microwave,Home & Kitchen,2,406,UPI,82,CUST_015,SJoshi,sjoshi314@outlook.com,LOC_15,Bhagalpur,Returning
+ORD_02063,11/02/24,Completed,8370,INR,PD_14,Football,Sports & Outdoors,2,383,Net Banking,35,CUST_298,SKumar,skumar213@yahoo.com,LOC_48,Coimbatore,VIP
+ORD_02074,18/02/24,Pending,214,INR,PD_14,Football,Sports & Outdoors,3,475,Net Banking,44,CUST_232,RGupta,rgupta122@outlook.com,LOC_32,Chennai,Returning
+ORD_02079,01/02/24,Completed,19824,INR,PD_03,Microwave,Home & Kitchen,5,107,PayPal,41,CUST_079,NPatel,npatel462@outlook.com,LOC_29,Jalandhar,Returning
+ORD_02084,06/02/24,Canceled,13053,INR,PD_14,Football,Sports & Outdoors,3,162,PayPal,87,CUST_296,KVerma,kverma721@yahoo.com,LOC_46,Bhopal,Returning
+ORD_02086,07/03/24,Pending,8293,INR,PD_14,Football,Sports & Outdoors,4,350,UPI,35,CUST_110,SSharma,ssharma670@gmail.com,LOC_10,Patna,New
+ORD_02098,29/03/24,Canceled,362,INR,PD_14,Football,Sports & Outdoors,2,170,PayPal,60,CUST_179,RDeshmukh,rdeshmukh535@gmail.com,LOC_29,Jalandhar,VIP
+ORD_02111,15/03/24,Completed,13022,INR,PD_03,Microwave,Home & Kitchen,3,230,Credit Card,100,CUST_110,SSharma,ssharma670@gmail.com,LOC_10,Patna,New
+ORD_02128,26/03/24,Completed,2230,INR,PD_03,Microwave,Home & Kitchen,3,94,Net Banking,50,CUST_080,PDeshmukh,pdeshmukh985@gmail.com,LOC_30,Jaipur,New
+ORD_02134,02/02/24,Completed,12053,INR,PD_03,Microwave,Home & Kitchen,3,342,PayPal,95,CUST_150,KJoshi,kjoshi129@yahoo.com,LOC_50,Mumbai,Returning
+ORD_02146,17/02/24,Completed,235,INR,PD_14,Football,Sports & Outdoors,2,172,Net Banking,95,CUST_062,SGupta,sgupta309@outlook.com,LOC_12,Muzaffarpur,VIP
+ORD_02153,28/02/24,Pending,2327,INR,PD_14,Football,Sports & Outdoors,2,324,UPI,83,CUST_248,SGupta,sgupta764@yahoo.com,LOC_48,Coimbatore,New
+ORD_02168,16/03/24,Completed,16729,INR,PD_14,Football,Sports & Outdoors,4,107,Net Banking,88,CUST_040,NDeshmukh,ndeshmukh107@gmail.com,LOC_40,Aurangabad,VIP
+ORD_02171,29/02/24,Canceled,7146,INR,PD_14,Football,Sports & Outdoors,3,384,Net Banking,60,CUST_083,RKumar,rkumar993@gmail.com,LOC_33,Bikaner,Returning
+ORD_02177,18/02/24,Pending,6685,INR,PD_03,Microwave,Home & Kitchen,2,461,UPI,96,CUST_180,NBhosale,nbhosale372@gmail.com,LOC_30,Jaipur,New
+ORD_02189,15/03/24,Canceled,19201,INR,PD_14,Football,Sports & Outdoors,5,235,Net Banking,51,CUST_099,RDeshmukh,rdeshmukh540@outlook.com,LOC_49,Varanasi,VIP
+ORD_02191,16/02/24,Pending,13659,INR,PD_03,Microwave,Home & Kitchen,5,446,Credit Card,40,CUST_070,PGupta,pgupta388@outlook.com,LOC_20,Siliguri,New
+ORD_02194,29/02/24,Pending,22033,INR,PD_03,Microwave,Home & Kitchen,5,365,Credit Card,23,CUST_117,RJoshi,rjoshi427@outlook.com,LOC_17,Agra,New
+ORD_02208,13/03/24,Completed,15719,INR,PD_14,Football,Sports & Outdoors,5,193,Net Banking,82,CUST_101,NVerma,nverma912@outlook.com,LOC_01,Ludhiana,New
+ORD_02213,07/02/24,Pending,1003,INR,PD_14,Football,Sports & Outdoors,3,204,Credit Card,100,CUST_079,NPatel,npatel462@outlook.com,LOC_29,Jalandhar,Returning
+ORD_02217,18/03/24,Completed,11863,INR,PD_14,Football,Sports & Outdoors,5,46,PayPal,44,CUST_197,NGupta,ngupta662@gmail.com,LOC_47,Madurai,Returning
+ORD_02238,14/02/24,Canceled,9420,INR,PD_03,Microwave,Home & Kitchen,4,9,UPI,45,CUST_240,SGupta,sgupta950@gmail.com,LOC_40,Aurangabad,Returning
+ORD_02243,09/03/24,Pending,8538,INR,PD_14,Football,Sports & Outdoors,4,143,Credit Card,97,CUST_275,NKumar,nkumar562@gmail.com,LOC_25,Salem,Returning
+ORD_02244,18/02/24,Canceled,295,INR,PD_14,Football,Sports & Outdoors,1,327,UPI,63,CUST_062,SGupta,sgupta309@outlook.com,LOC_12,Muzaffarpur,VIP
+ORD_02246,27/03/24,Completed,10084,INR,PD_03,Microwave,Home & Kitchen,3,422,UPI,39,CUST_021,KVerma,kverma246@yahoo.com,LOC_21,Prayagraj,New
+ORD_02247,29/02/24,Completed,8434,INR,PD_03,Microwave,Home & Kitchen,5,287,UPI,31,CUST_149,RVerma,rverma349@yahoo.com,LOC_49,Varanasi,VIP
+ORD_02290,23/03/24,Completed,3565,INR,PD_14,Football,Sports & Outdoors,2,263,PayPal,36,CUST_278,RJoshi,rjoshi256@outlook.com,LOC_28,Amritsar,Returning
+ORD_02314,24/03/24,Completed,5004,INR,PD_03,Microwave,Home & Kitchen,4,73,PayPal,81,CUST_217,KJoshi,kjoshi741@outlook.com,LOC_17,Agra,Returning
+ORD_02330,17/03/24,Canceled,17428,INR,PD_03,Microwave,Home & Kitchen,5,417,Credit Card,70,CUST_289,RJoshi,rjoshi459@gmail.com,LOC_39,Gandhinagar,New
+ORD_02341,21/02/24,Completed,3762,INR,PD_14,Football,Sports & Outdoors,3,491,Credit Card,41,CUST_052,RDeshmukh,rdeshmukh270@yahoo.com,LOC_02,Bangalore,Returning
+ORD_02344,30/03/24,Canceled,1778,INR,PD_03,Microwave,Home & Kitchen,2,46,Net Banking,96,CUST_196,SVerma,sverma740@yahoo.com,LOC_46,Bhopal,New
+ORD_02359,02/03/24,Canceled,2461,INR,PD_03,Microwave,Home & Kitchen,5,458,PayPal,64,CUST_235,SDeshmukh,sdeshmukh751@gmail.com,LOC_35,Vadodara,VIP
+ORD_02375,03/03/24,Completed,3062,INR,PD_03,Microwave,Home & Kitchen,2,325,PayPal,99,CUST_154,KVerma,kverma668@gmail.com,LOC_04,Pune,VIP
+ORD_02394,29/03/24,Completed,1625,INR,PD_14,Football,Sports & Outdoors,2,234,UPI,43,CUST_142,RSharma,rsharma455@outlook.com,LOC_42,Mangalore,Returning
+ORD_02399,20/02/24,Completed,18829,INR,PD_14,Football,Sports & Outdoors,4,363,UPI,100,CUST_280,KPatel,kpatel862@outlook.com,LOC_30,Jaipur,Returning
+ORD_02405,20/03/24,Completed,14210,INR,PD_03,Microwave,Home & Kitchen,3,133,Net Banking,33,CUST_029,PVerma,pverma103@outlook.com,LOC_29,Jalandhar,VIP
+ORD_02409,21/03/24,Completed,4946,INR,PD_14,Football,Sports & Outdoors,4,226,PayPal,96,CUST_151,PVerma,pverma317@yahoo.com,LOC_01,Ludhiana,Returning
+ORD_02411,13/02/24,Canceled,4511,INR,PD_03,Microwave,Home & Kitchen,3,179,Credit Card,79,CUST_129,SBhosale,sbhosale151@yahoo.com,LOC_29,Jalandhar,Returning
+ORD_02422,25/02/24,Pending,2460,INR,PD_14,Football,Sports & Outdoors,2,146,PayPal,42,CUST_169,RPatel,rpatel510@yahoo.com,LOC_19,Lucknow,New
+ORD_02435,05/03/24,Canceled,10546,INR,PD_03,Microwave,Home & Kitchen,4,312,Credit Card,98,CUST_221,RSharma,rsharma147@yahoo.com,LOC_21,Prayagraj,New
+ORD_02442,14/03/24,Completed,5964,INR,PD_14,Football,Sports & Outdoors,3,499,Net Banking,34,CUST_110,SSharma,ssharma670@gmail.com,LOC_10,Patna,New
+ORD_02445,14/03/24,Canceled,634,INR,PD_03,Microwave,Home & Kitchen,4,496,UPI,82,CUST_056,SBhosale,sbhosale294@yahoo.com,LOC_06,Rajkot,New
+ORD_02451,17/02/24,Pending,1757,INR,PD_14,Football,Sports & Outdoors,1,358,Net Banking,59,CUST_138,RBhosale,rbhosale418@gmail.com,LOC_38,Kolkata,VIP
+ORD_02458,02/02/24,Completed,12380,INR,PD_14,Football,Sports & Outdoors,3,458,Credit Card,34,CUST_005,NKumar,nkumar325@yahoo.com,LOC_05,Nagpur,VIP
+ORD_02475,18/03/24,Pending,2957,INR,PD_03,Microwave,Home & Kitchen,5,291,Net Banking,53,CUST_298,SKumar,skumar213@yahoo.com,LOC_48,Coimbatore,VIP
+ORD_02487,10/02/24,Completed,11761,INR,PD_14,Football,Sports & Outdoors,3,311,Net Banking,57,CUST_284,SPatel,spatel691@outlook.com,LOC_34,Indore,New
+ORD_02491,05/02/24,Completed,6045,INR,PD_03,Microwave,Home & Kitchen,2,289,Net Banking,80,CUST_096,KGupta,kgupta667@gmail.com,LOC_46,Bhopal,New
+ORD_02497,10/03/24,Canceled,4263,INR,PD_03,Microwave,Home & Kitchen,1,251,UPI,79,CUST_286,SPatel,spatel880@yahoo.com,LOC_36,Asansol,VIP
+ORD_02516,27/02/24,Canceled,18316,INR,PD_14,Football,Sports & Outdoors,4,31,Net Banking,87,CUST_052,RDeshmukh,rdeshmukh270@yahoo.com,LOC_02,Bangalore,Returning
+ORD_02519,02/03/24,Completed,1512,INR,PD_14,Football,Sports & Outdoors,5,26,Credit Card,48,CUST_012,RSharma,rsharma777@gmail.com,LOC_12,Muzaffarpur,Returning
+ORD_02537,20/02/24,Pending,1890,INR,PD_14,Football,Sports & Outdoors,1,476,Net Banking,20,CUST_246,RDeshmukh,rdeshmukh582@gmail.com,LOC_46,Bhopal,VIP
+ORD_02550,24/02/24,Pending,9297,INR,PD_14,Football,Sports & Outdoors,3,45,Net Banking,96,CUST_239,KBhosale,kbhosale305@gmail.com,LOC_39,Gandhinagar,VIP
+ORD_02554,06/02/24,Canceled,17091,INR,PD_03,Microwave,Home & Kitchen,5,184,UPI,75,CUST_008,SPatel,spatel194@yahoo.com,LOC_08,Kota,New
+ORD_02556,22/02/24,Canceled,6795,INR,PD_03,Microwave,Home & Kitchen,5,455,PayPal,25,CUST_188,SVerma,sverma384@gmail.com,LOC_38,Kolkata,VIP
+ORD_02570,03/02/24,Pending,24861,INR,PD_14,Football,Sports & Outdoors,5,21,UPI,82,CUST_283,KSharma,ksharma394@outlook.com,LOC_33,Bikaner,Returning
+ORD_02583,21/03/24,Pending,136,INR,PD_03,Microwave,Home & Kitchen,2,198,Credit Card,42,CUST_083,RKumar,rkumar993@gmail.com,LOC_33,Bikaner,Returning
+ORD_02589,28/03/24,Canceled,642,INR,PD_03,Microwave,Home & Kitchen,1,44,UPI,53,CUST_023,KJoshi,kjoshi324@gmail.com,LOC_23,Gwalior,VIP
+ORD_02610,16/03/24,Canceled,20373,INR,PD_14,Football,Sports & Outdoors,5,197,PayPal,95,CUST_079,NPatel,npatel462@outlook.com,LOC_29,Jalandhar,Returning
+ORD_02631,09/03/24,Pending,2763,INR,PD_03,Microwave,Home & Kitchen,2,11,PayPal,90,CUST_181,ABhosale,abhosale911@yahoo.com,LOC_31,Patiala,VIP
+ORD_02632,11/03/24,Completed,6463,INR,PD_03,Microwave,Home & Kitchen,2,104,PayPal,89,CUST_008,SPatel,spatel194@yahoo.com,LOC_08,Kota,New
+ORD_02636,28/02/24,Canceled,62,INR,PD_14,Football,Sports & Outdoors,1,122,Net Banking,59,CUST_128,APatel,apatel758@yahoo.com,LOC_28,Amritsar,New
+ORD_02660,01/03/24,Completed,5978,INR,PD_14,Football,Sports & Outdoors,2,293,Net Banking,55,CUST_052,RDeshmukh,rdeshmukh270@yahoo.com,LOC_02,Bangalore,Returning
+ORD_02662,19/02/24,Pending,3142,INR,PD_14,Football,Sports & Outdoors,1,69,Net Banking,20,CUST_159,SVerma,sverma377@yahoo.com,LOC_09,Hubli,Returning
+ORD_02663,28/03/24,Canceled,18226,INR,PD_14,Football,Sports & Outdoors,4,277,Net Banking,71,CUST_059,APatel,apatel971@gmail.com,LOC_09,Hubli,New
+ORD_02672,16/02/24,Completed,6547,INR,PD_14,Football,Sports & Outdoors,2,491,Credit Card,26,CUST_246,RDeshmukh,rdeshmukh582@gmail.com,LOC_46,Bhopal,VIP
+ORD_02683,03/02/24,Pending,9903,INR,PD_14,Football,Sports & Outdoors,3,112,Credit Card,25,CUST_017,PVerma,pverma488@yahoo.com,LOC_17,Agra,VIP
+ORD_02688,23/03/24,Pending,491,INR,PD_03,Microwave,Home & Kitchen,1,342,UPI,78,CUST_207,SBhosale,sbhosale557@outlook.com,LOC_07,Udaipur,Returning
+ORD_02691,28/02/24,Pending,10452,INR,PD_03,Microwave,Home & Kitchen,5,115,UPI,22,CUST_173,KGupta,kgupta682@outlook.com,LOC_23,Gwalior,New
+ORD_02696,31/03/24,Canceled,2622,INR,PD_03,Microwave,Home & Kitchen,2,319,Credit Card,81,CUST_266,RVerma,rverma559@yahoo.com,LOC_16,Howrah,VIP
+ORD_02728,13/02/24,Pending,24470,INR,PD_03,Microwave,Home & Kitchen,5,313,Credit Card,98,CUST_097,KKumar,kkumar793@outlook.com,LOC_47,Madurai,New
+ORD_02735,23/03/24,Pending,1503,INR,PD_03,Microwave,Home & Kitchen,4,490,Net Banking,29,CUST_087,RJoshi,rjoshi756@outlook.com,LOC_37,Ahmedabad,Returning
+ORD_02745,22/02/24,Completed,1742,INR,PD_14,Football,Sports & Outdoors,2,391,Net Banking,77,CUST_042,RDeshmukh,rdeshmukh385@outlook.com,LOC_42,Mangalore,Returning
+ORD_02747,23/03/24,Completed,2972,INR,PD_03,Microwave,Home & Kitchen,1,90,UPI,69,CUST_140,KDeshmukh,kdeshmukh177@outlook.com,LOC_40,Aurangabad,VIP
+ORD_02749,31/03/24,Canceled,22387,INR,PD_14,Football,Sports & Outdoors,5,99,UPI,81,CUST_062,SGupta,sgupta309@outlook.com,LOC_12,Muzaffarpur,VIP
+ORD_02755,27/02/24,Canceled,2882,INR,PD_03,Microwave,Home & Kitchen,1,332,Credit Card,63,CUST_177,SGupta,sgupta133@gmail.com,LOC_27,Surat,Returning
+ORD_02774,28/03/24,Pending,310,INR,PD_14,Football,Sports & Outdoors,4,348,PayPal,86,CUST_181,ABhosale,abhosale911@yahoo.com,LOC_31,Patiala,VIP
+ORD_02788,27/02/24,Completed,17474,INR,PD_03,Microwave,Home & Kitchen,4,148,UPI,46,CUST_287,NKumar,nkumar965@outlook.com,LOC_37,Ahmedabad,VIP
+ORD_02814,31/03/24,Canceled,3977,INR,PD_03,Microwave,Home & Kitchen,1,298,UPI,49,CUST_202,RKumar,rkumar954@yahoo.com,LOC_02,Bangalore,Returning
+ORD_02822,03/02/24,Canceled,628,INR,PD_14,Football,Sports & Outdoors,4,87,PayPal,67,CUST_224,PBhosale,pbhosale180@outlook.com,LOC_24,Kanpur,Returning
+ORD_02841,29/02/24,Canceled,1445,INR,PD_03,Microwave,Home & Kitchen,1,246,UPI,32,CUST_095,RGupta,rgupta782@yahoo.com,LOC_45,Tiruchirappalli,Returning
+ORD_02842,23/02/24,Pending,18,INR,PD_03,Microwave,Home & Kitchen,1,368,Net Banking,39,CUST_107,NKumar,nkumar606@yahoo.com,LOC_07,Udaipur,New
+ORD_02848,06/02/24,Pending,6277,INR,PD_03,Microwave,Home & Kitchen,2,176,UPI,63,CUST_087,RJoshi,rjoshi756@outlook.com,LOC_37,Ahmedabad,Returning
+ORD_02857,07/03/24,Pending,6204,INR,PD_14,Football,Sports & Outdoors,3,492,Net Banking,42,CUST_130,SDeshmukh,sdeshmukh565@yahoo.com,LOC_30,Jaipur,Returning
+ORD_02859,15/03/24,Completed,9087,INR,PD_14,Football,Sports & Outdoors,4,124,PayPal,39,CUST_172,NKumar,nkumar561@yahoo.com,LOC_22,Bathinda,Returning
+ORD_02866,19/02/24,Completed,13350,INR,PD_14,Football,Sports & Outdoors,3,349,Credit Card,43,CUST_202,RKumar,rkumar954@yahoo.com,LOC_02,Bangalore,Returning
+ORD_02871,26/03/24,Pending,1100,INR,PD_03,Microwave,Home & Kitchen,3,148,PayPal,27,CUST_290,PKumar,pkumar171@gmail.com,LOC_40,Aurangabad,VIP
+ORD_02873,26/02/24,Canceled,12988,INR,PD_14,Football,Sports & Outdoors,5,452,PayPal,35,CUST_052,RDeshmukh,rdeshmukh270@yahoo.com,LOC_02,Bangalore,Returning
+ORD_02876,15/03/24,Completed,9974,INR,PD_14,Football,Sports & Outdoors,2,46,Net Banking,100,CUST_011,RJoshi,rjoshi691@gmail.com,LOC_11,Mysore,VIP
+ORD_02879,04/03/24,Pending,9898,INR,PD_14,Football,Sports & Outdoors,3,48,Credit Card,79,CUST_199,NBhosale,nbhosale418@outlook.com,LOC_49,Varanasi,New
+ORD_02915,12/03/24,Completed,19861,INR,PD_14,Football,Sports & Outdoors,5,79,Net Banking,70,CUST_188,SVerma,sverma384@gmail.com,LOC_38,Kolkata,VIP
+ORD_02942,13/02/24,Pending,5204,INR,PD_03,Microwave,Home & Kitchen,2,183,Net Banking,41,CUST_136,RDeshmukh,rdeshmukh576@outlook.com,LOC_36,Asansol,Returning
+ORD_02946,08/03/24,Pending,7698,INR,PD_14,Football,Sports & Outdoors,2,253,Net Banking,89,CUST_025,PBhosale,pbhosale911@outlook.com,LOC_25,Salem,Returning
+ORD_02951,26/02/24,Pending,3906,INR,PD_03,Microwave,Home & Kitchen,2,425,Credit Card,33,CUST_242,SPatel,spatel244@gmail.com,LOC_42,Mangalore,VIP
+ORD_02955,11/02/24,Canceled,12662,INR,PD_14,Football,Sports & Outdoors,3,476,UPI,73,CUST_063,SDeshmukh,sdeshmukh371@yahoo.com,LOC_13,Ujjain,New
+ORD_02959,26/02/24,Canceled,19480,INR,PD_03,Microwave,Home & Kitchen,4,278,Credit Card,74,CUST_259,PDeshmukh,pdeshmukh170@outlook.com,LOC_09,Hubli,New
+ORD_02967,07/03/24,Canceled,19405,INR,PD_03,Microwave,Home & Kitchen,4,488,UPI,25,CUST_127,AKumar,akumar706@outlook.com,LOC_27,Surat,VIP
+ORD_02968,06/03/24,Pending,7022,INR,PD_14,Football,Sports & Outdoors,2,319,Credit Card,97,CUST_120,SVerma,sverma525@gmail.com,LOC_20,Siliguri,New
+ORD_02969,26/03/24,Pending,1846,INR,PD_03,Microwave,Home & Kitchen,2,456,Credit Card,24,CUST_260,NDeshmukh,ndeshmukh436@gmail.com,LOC_10,Patna,VIP
+ORD_02978,04/03/24,Pending,23642,INR,PD_03,Microwave,Home & Kitchen,5,468,PayPal,75,CUST_094,SJoshi,sjoshi779@gmail.com,LOC_44,Nashik,VIP
+ORD_02995,20/02/24,Canceled,5849,INR,PD_14,Football,Sports & Outdoors,3,3,Credit Card,44,CUST_047,APatel,apatel162@yahoo.com,LOC_47,Madurai,VIP
+ORD_03009,20/02/24,Completed,17885,INR,PD_14,Football,Sports & Outdoors,4,226,PayPal,55,CUST_246,RDeshmukh,rdeshmukh582@gmail.com,LOC_46,Bhopal,VIP
+ORD_03066,01/03/24,Canceled,9020,INR,PD_14,Football,Sports & Outdoors,2,6,UPI,42,CUST_248,SGupta,sgupta764@yahoo.com,LOC_48,Coimbatore,New
+ORD_03068,15/03/24,Pending,545,INR,PD_03,Microwave,Home & Kitchen,3,404,PayPal,91,CUST_253,SKumar,skumar386@gmail.com,LOC_03,Durgapur,VIP
+ORD_03073,08/02/24,Completed,857,INR,PD_03,Microwave,Home & Kitchen,1,117,UPI,78,CUST_018,NJoshi,njoshi963@gmail.com,LOC_18,Jabalpur,New
+ORD_03105,14/03/24,Pending,3542,INR,PD_14,Football,Sports & Outdoors,1,301,Credit Card,82,CUST_081,KSharma,ksharma283@outlook.com,LOC_31,Patiala,Returning
+ORD_03112,07/02/24,Pending,22969,INR,PD_14,Football,Sports & Outdoors,5,383,Net Banking,57,CUST_085,RDeshmukh,rdeshmukh328@gmail.com,LOC_35,Vadodara,VIP
+ORD_03117,26/03/24,Canceled,2254,INR,PD_03,Microwave,Home & Kitchen,1,84,PayPal,75,CUST_250,RPatel,rpatel340@outlook.com,LOC_50,Mumbai,New
+ORD_03127,21/02/24,Pending,2281,INR,PD_03,Microwave,Home & Kitchen,5,214,Credit Card,80,CUST_035,PBhosale,pbhosale775@yahoo.com,LOC_35,Vadodara,VIP
+ORD_03135,09/03/24,Canceled,12024,INR,PD_14,Football,Sports & Outdoors,4,54,Net Banking,78,CUST_213,SPatel,spatel995@yahoo.com,LOC_13,Ujjain,New
+ORD_03144,29/02/24,Canceled,5058,INR,PD_14,Football,Sports & Outdoors,4,385,Credit Card,87,CUST_047,APatel,apatel162@yahoo.com,LOC_47,Madurai,VIP
+ORD_03149,22/02/24,Canceled,21453,INR,PD_03,Microwave,Home & Kitchen,5,48,Credit Card,71,CUST_127,AKumar,akumar706@outlook.com,LOC_27,Surat,VIP
+ORD_03155,27/03/24,Pending,22191,INR,PD_14,Football,Sports & Outdoors,5,489,Net Banking,20,CUST_162,SGupta,sgupta841@outlook.com,LOC_12,Muzaffarpur,VIP
+ORD_03159,11/03/24,Completed,17563,INR,PD_03,Microwave,Home & Kitchen,5,315,Net Banking,88,CUST_241,SGupta,sgupta864@yahoo.com,LOC_41,Jodhpur,New
+ORD_03162,11/03/24,Completed,1488,INR,PD_14,Football,Sports & Outdoors,3,56,PayPal,35,CUST_132,RVerma,rverma119@outlook.com,LOC_32,Chennai,VIP
+ORD_03165,23/03/24,Pending,9780,INR,PD_03,Microwave,Home & Kitchen,2,275,PayPal,91,CUST_209,SJoshi,sjoshi990@gmail.com,LOC_09,Hubli,VIP
+ORD_03167,21/02/24,Pending,4073,INR,PD_14,Football,Sports & Outdoors,1,296,Credit Card,53,CUST_068,RSharma,rsharma783@outlook.com,LOC_18,Jabalpur,Returning
+ORD_03170,22/03/24,Canceled,9409,INR,PD_14,Football,Sports & Outdoors,3,192,Net Banking,55,CUST_018,NJoshi,njoshi963@gmail.com,LOC_18,Jabalpur,New
+ORD_03174,13/02/24,Canceled,7691,INR,PD_03,Microwave,Home & Kitchen,3,493,Credit Card,48,CUST_294,RSharma,rsharma259@gmail.com,LOC_44,Nashik,VIP
+ORD_03177,22/02/24,Canceled,885,INR,PD_03,Microwave,Home & Kitchen,1,203,UPI,100,CUST_043,NBhosale,nbhosale840@outlook.com,LOC_43,Gaya,VIP
+ORD_03183,01/02/24,Completed,151,INR,PD_03,Microwave,Home & Kitchen,1,389,Net Banking,88,CUST_115,RVerma,rverma741@gmail.com,LOC_15,Bhagalpur,Returning
+ORD_03190,23/02/24,Canceled,2319,INR,PD_14,Football,Sports & Outdoors,5,236,PayPal,90,CUST_229,RKumar,rkumar806@yahoo.com,LOC_29,Jalandhar,Returning
+ORD_03192,04/03/24,Pending,4360,INR,PD_03,Microwave,Home & Kitchen,1,355,UPI,49,CUST_174,RDeshmukh,rdeshmukh740@gmail.com,LOC_24,Kanpur,Returning
+ORD_03202,18/02/24,Canceled,13482,INR,PD_14,Football,Sports & Outdoors,3,257,PayPal,38,CUST_269,AVerma,averma967@yahoo.com,LOC_19,Lucknow,Returning
+ORD_03227,13/02/24,Pending,18141,INR,PD_03,Microwave,Home & Kitchen,4,328,UPI,37,CUST_268,AGupta,agupta569@outlook.com,LOC_18,Jabalpur,New
+ORD_03231,29/03/24,Canceled,2693,INR,PD_14,Football,Sports & Outdoors,4,169,Credit Card,22,CUST_098,RKumar,rkumar661@gmail.com,LOC_48,Coimbatore,Returning
+ORD_03244,06/02/24,Completed,10153,INR,PD_14,Football,Sports & Outdoors,5,64,Net Banking,22,CUST_108,PSharma,psharma868@gmail.com,LOC_08,Kota,Returning
+ORD_03247,24/02/24,Pending,1070,INR,PD_03,Microwave,Home & Kitchen,2,401,UPI,79,CUST_290,PKumar,pkumar171@gmail.com,LOC_40,Aurangabad,VIP
+ORD_03260,01/02/24,Completed,13536,INR,PD_14,Football,Sports & Outdoors,5,454,Credit Card,55,CUST_020,NJoshi,njoshi317@outlook.com,LOC_20,Siliguri,Returning
+ORD_03269,28/03/24,Canceled,3963,INR,PD_14,Football,Sports & Outdoors,1,131,UPI,31,CUST_191,PJoshi,pjoshi521@outlook.com,LOC_41,Jodhpur,Returning
+ORD_03288,07/02/24,Completed,527,INR,PD_03,Microwave,Home & Kitchen,1,455,Credit Card,49,CUST_147,RVerma,rverma576@yahoo.com,LOC_47,Madurai,VIP
+ORD_03297,25/03/24,Pending,3569,INR,PD_14,Football,Sports & Outdoors,1,144,Credit Card,25,CUST_089,RSharma,rsharma211@outlook.com,LOC_39,Gandhinagar,Returning
+ORD_03308,04/02/24,Completed,18987,INR,PD_03,Microwave,Home & Kitchen,4,219,Net Banking,90,CUST_155,SVerma,sverma558@gmail.com,LOC_05,Nagpur,New
+ORD_03321,11/03/24,Completed,7235,INR,PD_03,Microwave,Home & Kitchen,4,406,UPI,37,CUST_207,SBhosale,sbhosale557@outlook.com,LOC_07,Udaipur,Returning
+ORD_03329,18/03/24,Canceled,5959,INR,PD_03,Microwave,Home & Kitchen,4,50,PayPal,97,CUST_178,RVerma,rverma172@outlook.com,LOC_28,Amritsar,New
+ORD_03335,20/03/24,Canceled,5951,INR,PD_14,Football,Sports & Outdoors,3,245,PayPal,88,CUST_158,SKumar,skumar863@outlook.com,LOC_08,Kota,Returning
+ORD_03343,17/03/24,Completed,11994,INR,PD_14,Football,Sports & Outdoors,4,295,Credit Card,97,CUST_191,PJoshi,pjoshi521@outlook.com,LOC_41,Jodhpur,Returning
+ORD_03371,14/03/24,Completed,6127,INR,PD_03,Microwave,Home & Kitchen,4,455,UPI,66,CUST_227,AVerma,averma394@outlook.com,LOC_27,Surat,VIP
+ORD_03390,30/03/24,Completed,17437,INR,PD_14,Football,Sports & Outdoors,4,420,PayPal,65,CUST_058,AVerma,averma614@outlook.com,LOC_08,Kota,New
+ORD_03404,16/03/24,Completed,17424,INR,PD_14,Football,Sports & Outdoors,4,412,Net Banking,100,CUST_031,RDeshmukh,rdeshmukh256@yahoo.com,LOC_31,Patiala,New
+ORD_03405,13/02/24,Pending,708,INR,PD_14,Football,Sports & Outdoors,2,101,UPI,35,CUST_264,SSharma,ssharma278@yahoo.com,LOC_14,Belgaum,New
+ORD_03413,02/03/24,Pending,14362,INR,PD_14,Football,Sports & Outdoors,5,497,Credit Card,24,CUST_040,NDeshmukh,ndeshmukh107@gmail.com,LOC_40,Aurangabad,VIP
+ORD_03428,13/03/24,Canceled,12625,INR,PD_03,Microwave,Home & Kitchen,5,395,UPI,35,CUST_105,ASharma,asharma350@yahoo.com,LOC_05,Nagpur,VIP
+ORD_03431,25/02/24,Completed,19625,INR,PD_03,Microwave,Home & Kitchen,5,336,UPI,66,CUST_292,KKumar,kkumar564@yahoo.com,LOC_42,Mangalore,New
+ORD_03450,21/03/24,Pending,3178,INR,PD_14,Football,Sports & Outdoors,5,180,Net Banking,23,CUST_178,RVerma,rverma172@outlook.com,LOC_28,Amritsar,New
+ORD_03460,15/02/24,Pending,9238,INR,PD_03,Microwave,Home & Kitchen,2,356,PayPal,68,CUST_292,KKumar,kkumar564@yahoo.com,LOC_42,Mangalore,New
+ORD_03462,05/03/24,Completed,8879,INR,PD_14,Football,Sports & Outdoors,3,56,Net Banking,40,CUST_086,NKumar,nkumar436@yahoo.com,LOC_36,Asansol,New
+ORD_03470,28/03/24,Pending,5622,INR,PD_03,Microwave,Home & Kitchen,3,294,UPI,54,CUST_115,RVerma,rverma741@gmail.com,LOC_15,Bhagalpur,Returning
+ORD_03495,20/02/24,Completed,8960,INR,PD_14,Football,Sports & Outdoors,4,96,UPI,24,CUST_236,RBhosale,rbhosale743@gmail.com,LOC_36,Asansol,VIP
+ORD_03523,11/03/24,Pending,2643,INR,PD_14,Football,Sports & Outdoors,3,300,UPI,99,CUST_046,SKumar,skumar520@yahoo.com,LOC_46,Bhopal,VIP
+ORD_03536,29/02/24,Pending,7946,INR,PD_14,Football,Sports & Outdoors,4,137,Net Banking,43,CUST_151,PVerma,pverma317@yahoo.com,LOC_01,Ludhiana,Returning
+ORD_03555,19/03/24,Pending,13487,INR,PD_14,Football,Sports & Outdoors,4,144,Credit Card,71,CUST_013,RDeshmukh,rdeshmukh987@gmail.com,LOC_13,Ujjain,Returning
+ORD_03564,28/02/24,Pending,1523,INR,PD_14,Football,Sports & Outdoors,1,448,Credit Card,75,CUST_154,KVerma,kverma668@gmail.com,LOC_04,Pune,VIP
+ORD_03588,09/03/24,Canceled,5015,INR,PD_03,Microwave,Home & Kitchen,2,315,PayPal,84,CUST_019,AJoshi,ajoshi510@yahoo.com,LOC_19,Lucknow,New
+ORD_03589,18/02/24,Canceled,8296,INR,PD_03,Microwave,Home & Kitchen,3,114,Net Banking,97,CUST_258,ASharma,asharma905@yahoo.com,LOC_08,Kota,New
+ORD_03594,23/02/24,Canceled,12498,INR,PD_14,Football,Sports & Outdoors,3,130,UPI,91,CUST_212,PVerma,pverma137@gmail.com,LOC_12,Muzaffarpur,VIP
+ORD_03612,04/03/24,Pending,14839,INR,PD_03,Microwave,Home & Kitchen,4,291,Credit Card,26,CUST_022,NGupta,ngupta864@outlook.com,LOC_22,Bathinda,Returning
+ORD_03613,27/02/24,Canceled,4247,INR,PD_03,Microwave,Home & Kitchen,1,241,Credit Card,40,CUST_118,PBhosale,pbhosale336@yahoo.com,LOC_18,Jabalpur,VIP
+ORD_03627,14/03/24,Completed,1975,INR,PD_14,Football,Sports & Outdoors,1,201,Credit Card,36,CUST_193,SPatel,spatel422@yahoo.com,LOC_43,Gaya,Returning
+ORD_03629,06/03/24,Canceled,6831,INR,PD_03,Microwave,Home & Kitchen,2,395,PayPal,54,CUST_179,RDeshmukh,rdeshmukh535@gmail.com,LOC_29,Jalandhar,VIP
+ORD_03646,16/03/24,Pending,4775,INR,PD_03,Microwave,Home & Kitchen,3,62,Net Banking,76,CUST_268,AGupta,agupta569@outlook.com,LOC_18,Jabalpur,New
+ORD_03669,03/03/24,Canceled,4808,INR,PD_03,Microwave,Home & Kitchen,1,125,Credit Card,98,CUST_021,KVerma,kverma246@yahoo.com,LOC_21,Prayagraj,New
+ORD_03688,12/02/24,Pending,9623,INR,PD_03,Microwave,Home & Kitchen,2,249,UPI,92,CUST_140,KDeshmukh,kdeshmukh177@outlook.com,LOC_40,Aurangabad,VIP
+ORD_03689,16/02/24,Pending,792,INR,PD_03,Microwave,Home & Kitchen,1,194,Credit Card,57,CUST_231,NKumar,nkumar685@yahoo.com,LOC_31,Patiala,VIP
+ORD_03690,02/03/24,Pending,8108,INR,PD_14,Football,Sports & Outdoors,2,466,PayPal,50,CUST_162,SGupta,sgupta841@outlook.com,LOC_12,Muzaffarpur,VIP
+ORD_03698,14/02/24,Pending,3631,INR,PD_14,Football,Sports & Outdoors,3,249,PayPal,73,CUST_145,KJoshi,kjoshi750@yahoo.com,LOC_45,Tiruchirappalli,VIP
+ORD_03706,02/02/24,Canceled,8703,INR,PD_14,Football,Sports & Outdoors,4,454,Net Banking,45,CUST_104,RDeshmukh,rdeshmukh925@gmail.com,LOC_04,Pune,New
+ORD_03715,11/03/24,Completed,3583,INR,PD_03,Microwave,Home & Kitchen,2,457,UPI,30,CUST_264,SSharma,ssharma278@yahoo.com,LOC_14,Belgaum,New
+ORD_03733,06/02/24,Completed,3751,INR,PD_14,Football,Sports & Outdoors,1,87,PayPal,40,CUST_258,ASharma,asharma905@yahoo.com,LOC_08,Kota,New
+ORD_03753,29/02/24,Canceled,3953,INR,PD_03,Microwave,Home & Kitchen,1,383,Credit Card,49,CUST_029,PVerma,pverma103@outlook.com,LOC_29,Jalandhar,VIP
+ORD_03756,22/03/24,Pending,4207,INR,PD_14,Football,Sports & Outdoors,4,426,PayPal,45,CUST_053,SDeshmukh,sdeshmukh985@yahoo.com,LOC_03,Durgapur,New
+ORD_03765,23/03/24,Completed,2176,INR,PD_14,Football,Sports & Outdoors,1,60,Credit Card,71,CUST_240,SGupta,sgupta950@gmail.com,LOC_40,Aurangabad,Returning
+ORD_03793,08/03/24,Canceled,1473,INR,PD_03,Microwave,Home & Kitchen,1,102,Net Banking,36,CUST_033,SGupta,sgupta345@gmail.com,LOC_33,Bikaner,New
+ORD_03795,19/03/24,Pending,15903,INR,PD_03,Microwave,Home & Kitchen,5,5,Net Banking,83,CUST_297,RDeshmukh,rdeshmukh873@outlook.com,LOC_47,Madurai,New
+ORD_03796,20/02/24,Pending,5378,INR,PD_03,Microwave,Home & Kitchen,3,489,Credit Card,53,CUST_091,RKumar,rkumar690@gmail.com,LOC_41,Jodhpur,Returning
+ORD_03807,14/03/24,Completed,15310,INR,PD_14,Football,Sports & Outdoors,4,424,Credit Card,30,CUST_209,SJoshi,sjoshi990@gmail.com,LOC_09,Hubli,VIP
+ORD_03815,06/03/24,Canceled,3788,INR,PD_14,Football,Sports & Outdoors,1,396,Credit Card,45,CUST_202,RKumar,rkumar954@yahoo.com,LOC_02,Bangalore,Returning
+ORD_03820,24/03/24,Completed,2544,INR,PD_03,Microwave,Home & Kitchen,1,433,Credit Card,32,CUST_003,RKumar,rkumar132@gmail.com,LOC_03,Durgapur,New
+ORD_03823,28/02/24,Completed,2422,INR,PD_14,Football,Sports & Outdoors,1,312,PayPal,87,CUST_077,PKumar,pkumar230@gmail.com,LOC_27,Surat,Returning
+ORD_03824,25/02/24,Completed,5093,INR,PD_14,Football,Sports & Outdoors,4,51,Credit Card,84,CUST_010,SPatel,spatel487@gmail.com,LOC_10,Patna,VIP
+ORD_03840,06/03/24,Completed,16107,INR,PD_14,Football,Sports & Outdoors,4,396,Net Banking,35,CUST_100,SVerma,sverma552@yahoo.com,LOC_50,Mumbai,VIP
+ORD_03847,15/03/24,Canceled,2952,INR,PD_14,Football,Sports & Outdoors,1,410,UPI,76,CUST_020,NJoshi,njoshi317@outlook.com,LOC_20,Siliguri,Returning
+ORD_03862,07/03/24,Pending,2531,INR,PD_14,Football,Sports & Outdoors,1,241,UPI,51,CUST_152,SGupta,sgupta710@outlook.com,LOC_02,Bangalore,Returning
+ORD_03865,17/02/24,Completed,4422,INR,PD_03,Microwave,Home & Kitchen,5,174,Net Banking,66,CUST_053,SDeshmukh,sdeshmukh985@yahoo.com,LOC_03,Durgapur,New
+ORD_03871,02/03/24,Canceled,17537,INR,PD_14,Football,Sports & Outdoors,4,328,Credit Card,49,CUST_127,AKumar,akumar706@outlook.com,LOC_27,Surat,VIP
+ORD_03872,20/02/24,Completed,1611,INR,PD_14,Football,Sports & Outdoors,2,249,Credit Card,60,CUST_155,SVerma,sverma558@gmail.com,LOC_05,Nagpur,New
+ORD_03873,25/03/24,Pending,7324,INR,PD_03,Microwave,Home & Kitchen,2,151,UPI,29,CUST_292,KKumar,kkumar564@yahoo.com,LOC_42,Mangalore,New
+ORD_03882,26/02/24,Canceled,12621,INR,PD_14,Football,Sports & Outdoors,3,470,PayPal,86,CUST_202,RKumar,rkumar954@yahoo.com,LOC_02,Bangalore,Returning
+ORD_03897,25/03/24,Pending,3114,INR,PD_14,Football,Sports & Outdoors,1,89,Credit Card,33,CUST_266,RVerma,rverma559@yahoo.com,LOC_16,Howrah,VIP
+ORD_03902,29/02/24,Completed,1356,INR,PD_14,Football,Sports & Outdoors,2,204,UPI,44,CUST_011,RJoshi,rjoshi691@gmail.com,LOC_11,Mysore,VIP
+ORD_03920,06/03/24,Canceled,642,INR,PD_14,Football,Sports & Outdoors,2,143,Credit Card,53,CUST_190,KJoshi,kjoshi428@outlook.com,LOC_40,Aurangabad,New
+ORD_03935,09/03/24,Completed,11314,INR,PD_14,Football,Sports & Outdoors,4,318,PayPal,32,CUST_001,RSharma,rsharma859@yahoo.com,LOC_01,Ludhiana,New
+ORD_03938,12/03/24,Pending,3758,INR,PD_03,Microwave,Home & Kitchen,3,341,UPI,85,CUST_045,NPatel,npatel199@outlook.com,LOC_45,Tiruchirappalli,Returning
+ORD_03951,09/03/24,Canceled,3694,INR,PD_03,Microwave,Home & Kitchen,2,387,Net Banking,41,CUST_058,AVerma,averma614@outlook.com,LOC_08,Kota,New
+ORD_03952,04/02/24,Completed,2556,INR,PD_03,Microwave,Home & Kitchen,3,183,UPI,99,CUST_273,SKumar,skumar711@outlook.com,LOC_23,Gwalior,Returning
+ORD_03956,02/02/24,Canceled,6465,INR,PD_14,Football,Sports & Outdoors,2,403,UPI,42,CUST_121,KKumar,kkumar888@outlook.com,LOC_21,Prayagraj,VIP
+ORD_03969,08/03/24,Completed,3570,INR,PD_03,Microwave,Home & Kitchen,5,25,PayPal,30,CUST_132,RVerma,rverma119@outlook.com,LOC_32,Chennai,VIP
+ORD_03984,02/03/24,Pending,10444,INR,PD_03,Microwave,Home & Kitchen,3,414,UPI,28,CUST_120,SVerma,sverma525@gmail.com,LOC_20,Siliguri,New
+ORD_03989,22/03/24,Completed,10490,INR,PD_14,Football,Sports & Outdoors,3,399,Net Banking,62,CUST_075,KSharma,ksharma214@gmail.com,LOC_25,Salem,VIP
+ORD_04000,26/02/24,Canceled,5306,INR,PD_14,Football,Sports & Outdoors,3,234,Net Banking,26,CUST_136,RDeshmukh,rdeshmukh576@outlook.com,LOC_36,Asansol,Returning
+ORD_04009,09/03/24,Canceled,7414,INR,PD_14,Football,Sports & Outdoors,2,136,PayPal,74,CUST_207,SBhosale,sbhosale557@outlook.com,LOC_07,Udaipur,Returning
+ORD_04016,16/03/24,Canceled,4184,INR,PD_14,Football,Sports & Outdoors,3,356,Net Banking,85,CUST_013,RDeshmukh,rdeshmukh987@gmail.com,LOC_13,Ujjain,Returning
+ORD_04026,11/03/24,Pending,17458,INR,PD_14,Football,Sports & Outdoors,5,421,PayPal,59,CUST_014,RVerma,rverma750@yahoo.com,LOC_14,Belgaum,New
+ORD_04032,19/03/24,Pending,5798,INR,PD_03,Microwave,Home & Kitchen,3,287,PayPal,85,CUST_179,RDeshmukh,rdeshmukh535@gmail.com,LOC_29,Jalandhar,VIP
+ORD_04050,15/03/24,Pending,4261,INR,PD_14,Football,Sports & Outdoors,2,171,Credit Card,86,CUST_113,KVerma,kverma262@outlook.com,LOC_13,Ujjain,Returning
+ORD_04051,23/03/24,Canceled,1615,INR,PD_14,Football,Sports & Outdoors,1,5,PayPal,57,CUST_054,PKumar,pkumar102@yahoo.com,LOC_04,Pune,Returning
+ORD_04064,24/02/24,Canceled,14681,INR,PD_14,Football,Sports & Outdoors,3,37,UPI,36,CUST_208,SJoshi,sjoshi665@outlook.com,LOC_08,Kota,Returning
+ORD_04066,25/02/24,Completed,4647,INR,PD_14,Football,Sports & Outdoors,3,309,PayPal,87,CUST_287,NKumar,nkumar965@outlook.com,LOC_37,Ahmedabad,VIP
+ORD_04072,01/02/24,Pending,8055,INR,PD_14,Football,Sports & Outdoors,5,190,Credit Card,75,CUST_195,SKumar,skumar155@gmail.com,LOC_45,Tiruchirappalli,VIP
+ORD_04075,26/02/24,Completed,3922,INR,PD_14,Football,Sports & Outdoors,5,79,Credit Card,36,CUST_232,RGupta,rgupta122@outlook.com,LOC_32,Chennai,Returning
+ORD_04080,02/03/24,Completed,3669,INR,PD_14,Football,Sports & Outdoors,3,461,Credit Card,89,CUST_067,SGupta,sgupta261@yahoo.com,LOC_17,Agra,VIP
+ORD_04083,12/02/24,Completed,6753,INR,PD_14,Football,Sports & Outdoors,5,28,UPI,86,CUST_292,KKumar,kkumar564@yahoo.com,LOC_42,Mangalore,New
+ORD_04084,28/02/24,Pending,497,INR,PD_14,Football,Sports & Outdoors,2,291,Credit Card,82,CUST_295,APatel,apatel378@yahoo.com,LOC_45,Tiruchirappalli,VIP
+ORD_04090,03/03/24,Pending,2569,INR,PD_14,Football,Sports & Outdoors,1,126,Credit Card,59,CUST_149,RVerma,rverma349@yahoo.com,LOC_49,Varanasi,VIP
+ORD_04095,25/03/24,Canceled,1008,INR,PD_14,Football,Sports & Outdoors,1,355,Credit Card,62,CUST_053,SDeshmukh,sdeshmukh985@yahoo.com,LOC_03,Durgapur,New
+ORD_04104,24/03/24,Completed,4469,INR,PD_03,Microwave,Home & Kitchen,2,18,UPI,97,CUST_120,SVerma,sverma525@gmail.com,LOC_20,Siliguri,New
+ORD_04115,17/03/24,Canceled,3161,INR,PD_14,Football,Sports & Outdoors,1,144,PayPal,75,CUST_076,PSharma,psharma954@yahoo.com,LOC_26,Purnia,VIP
+ORD_04122,18/02/24,Canceled,805,INR,PD_14,Football,Sports & Outdoors,1,171,UPI,88,CUST_067,SGupta,sgupta261@yahoo.com,LOC_17,Agra,VIP
+ORD_04124,13/03/24,Pending,2193,INR,PD_03,Microwave,Home & Kitchen,2,57,Credit Card,96,CUST_247,SDeshmukh,sdeshmukh763@gmail.com,LOC_47,Madurai,VIP
+ORD_04130,28/03/24,Pending,9580,INR,PD_14,Football,Sports & Outdoors,2,139,Net Banking,73,CUST_157,RJoshi,rjoshi584@outlook.com,LOC_07,Udaipur,VIP
+ORD_04156,24/02/24,Completed,15471,INR,PD_14,Football,Sports & Outdoors,5,13,Credit Card,29,CUST_017,PVerma,pverma488@yahoo.com,LOC_17,Agra,VIP
+ORD_04171,26/03/24,Completed,8257,INR,PD_03,Microwave,Home & Kitchen,4,111,Net Banking,44,CUST_151,PVerma,pverma317@yahoo.com,LOC_01,Ludhiana,Returning
+ORD_04172,27/03/24,Pending,2367,INR,PD_14,Football,Sports & Outdoors,2,107,UPI,92,CUST_198,SVerma,sverma224@gmail.com,LOC_48,Coimbatore,VIP
+ORD_04177,15/03/24,Completed,945,INR,PD_14,Football,Sports & Outdoors,2,69,Credit Card,50,CUST_037,NDeshmukh,ndeshmukh830@yahoo.com,LOC_37,Ahmedabad,Returning
+ORD_04178,05/02/24,Pending,4237,INR,PD_14,Football,Sports & Outdoors,5,128,PayPal,20,CUST_134,ASharma,asharma353@gmail.com,LOC_34,Indore,New
+ORD_04186,03/03/24,Pending,4901,INR,PD_14,Football,Sports & Outdoors,4,467,Net Banking,36,CUST_186,RDeshmukh,rdeshmukh790@outlook.com,LOC_36,Asansol,VIP
+ORD_04216,26/03/24,Canceled,8969,INR,PD_14,Football,Sports & Outdoors,2,123,Net Banking,20,CUST_105,ASharma,asharma350@yahoo.com,LOC_05,Nagpur,VIP
+ORD_04218,25/02/24,Pending,6077,INR,PD_03,Microwave,Home & Kitchen,5,213,PayPal,30,CUST_048,SPatel,spatel354@gmail.com,LOC_48,Coimbatore,New
+ORD_04219,23/02/24,Pending,757,INR,PD_14,Football,Sports & Outdoors,1,214,Net Banking,61,CUST_139,AGupta,agupta689@outlook.com,LOC_39,Gandhinagar,Returning
+ORD_04226,21/03/24,Canceled,7629,INR,PD_03,Microwave,Home & Kitchen,3,133,Net Banking,28,CUST_162,SGupta,sgupta841@outlook.com,LOC_12,Muzaffarpur,VIP
+ORD_04239,08/03/24,Pending,12342,INR,PD_14,Football,Sports & Outdoors,3,498,Net Banking,21,CUST_010,SPatel,spatel487@gmail.com,LOC_10,Patna,VIP
+ORD_04257,27/02/24,Canceled,8423,INR,PD_14,Football,Sports & Outdoors,3,288,Credit Card,59,CUST_057,ASharma,asharma865@yahoo.com,LOC_07,Udaipur,New
+ORD_04290,27/03/24,Completed,14775,INR,PD_03,Microwave,Home & Kitchen,4,275,PayPal,26,CUST_221,RSharma,rsharma147@yahoo.com,LOC_21,Prayagraj,New
+ORD_04291,04/03/24,Pending,6753,INR,PD_14,Football,Sports & Outdoors,3,182,UPI,74,CUST_216,KPatel,kpatel972@yahoo.com,LOC_16,Howrah,VIP
+ORD_04319,07/02/24,Pending,11838,INR,PD_03,Microwave,Home & Kitchen,4,316,Net Banking,22,CUST_028,RJoshi,rjoshi214@yahoo.com,LOC_28,Amritsar,Returning
+ORD_04345,09/02/24,Pending,13452,INR,PD_03,Microwave,Home & Kitchen,5,216,Net Banking,58,CUST_207,SBhosale,sbhosale557@outlook.com,LOC_07,Udaipur,Returning
+ORD_04396,22/02/24,Completed,18377,INR,PD_14,Football,Sports & Outdoors,4,114,Credit Card,47,CUST_031,RDeshmukh,rdeshmukh256@yahoo.com,LOC_31,Patiala,New
+ORD_04399,03/02/24,Completed,11365,INR,PD_03,Microwave,Home & Kitchen,5,374,PayPal,94,CUST_050,SDeshmukh,sdeshmukh995@gmail.com,LOC_50,Mumbai,Returning
+ORD_04401,06/03/24,Completed,6686,INR,PD_14,Football,Sports & Outdoors,4,489,UPI,55,CUST_080,PDeshmukh,pdeshmukh985@gmail.com,LOC_30,Jaipur,New
+ORD_04443,19/02/24,Completed,2821,INR,PD_03,Microwave,Home & Kitchen,2,284,UPI,39,CUST_179,RDeshmukh,rdeshmukh535@gmail.com,LOC_29,Jalandhar,VIP
+ORD_04464,05/03/24,Canceled,8711,INR,PD_03,Microwave,Home & Kitchen,3,457,Net Banking,39,CUST_221,RSharma,rsharma147@yahoo.com,LOC_21,Prayagraj,New
+ORD_04486,09/03/24,Completed,2742,INR,PD_03,Microwave,Home & Kitchen,1,350,Net Banking,50,CUST_024,SPatel,spatel873@gmail.com,LOC_24,Kanpur,New
+ORD_04491,14/02/24,Pending,4751,INR,PD_03,Microwave,Home & Kitchen,1,122,PayPal,51,CUST_010,SPatel,spatel487@gmail.com,LOC_10,Patna,VIP
+ORD_04502,14/03/24,Pending,4334,INR,PD_14,Football,Sports & Outdoors,5,471,Net Banking,30,CUST_028,RJoshi,rjoshi214@yahoo.com,LOC_28,Amritsar,Returning
+ORD_04510,09/03/24,Completed,4221,INR,PD_03,Microwave,Home & Kitchen,4,276,Credit Card,65,CUST_280,KPatel,kpatel862@outlook.com,LOC_30,Jaipur,Returning
+ORD_04514,08/03/24,Canceled,11084,INR,PD_03,Microwave,Home & Kitchen,4,395,PayPal,51,CUST_049,SBhosale,sbhosale532@gmail.com,LOC_49,Varanasi,Returning
+ORD_04521,12/02/24,Pending,7066,INR,PD_03,Microwave,Home & Kitchen,2,201,Net Banking,57,CUST_103,SPatel,spatel938@gmail.com,LOC_03,Durgapur,VIP
+ORD_04523,03/03/24,Pending,8726,INR,PD_14,Football,Sports & Outdoors,3,112,Net Banking,51,CUST_186,RDeshmukh,rdeshmukh790@outlook.com,LOC_36,Asansol,VIP
+ORD_04544,24/03/24,Pending,11495,INR,PD_03,Microwave,Home & Kitchen,5,64,PayPal,69,CUST_159,SVerma,sverma377@yahoo.com,LOC_09,Hubli,Returning
+ORD_04548,28/03/24,Canceled,11834,INR,PD_03,Microwave,Home & Kitchen,5,456,PayPal,75,CUST_093,NJoshi,njoshi541@gmail.com,LOC_43,Gaya,VIP
+ORD_04571,13/03/24,Canceled,6151,INR,PD_03,Microwave,Home & Kitchen,3,126,PayPal,94,CUST_188,SVerma,sverma384@gmail.com,LOC_38,Kolkata,VIP
+ORD_04575,01/02/24,Completed,9063,INR,PD_14,Football,Sports & Outdoors,5,2,UPI,45,CUST_254,SDeshmukh,sdeshmukh554@yahoo.com,LOC_04,Pune,New
+ORD_04586,19/02/24,Canceled,4736,INR,PD_14,Football,Sports & Outdoors,2,72,UPI,44,CUST_202,RKumar,rkumar954@yahoo.com,LOC_02,Bangalore,Returning
+ORD_04589,02/03/24,Completed,4650,INR,PD_14,Football,Sports & Outdoors,1,298,Net Banking,100,CUST_257,RVerma,rverma193@outlook.com,LOC_07,Udaipur,New
+ORD_04591,18/03/24,Canceled,1087,INR,PD_03,Microwave,Home & Kitchen,3,310,Net Banking,98,CUST_267,RVerma,rverma615@gmail.com,LOC_17,Agra,VIP
+ORD_04595,20/03/24,Pending,1377,INR,PD_03,Microwave,Home & Kitchen,2,296,PayPal,29,CUST_251,KVerma,kverma479@outlook.com,LOC_01,Ludhiana,VIP
+ORD_04611,06/02/24,Pending,4399,INR,PD_14,Football,Sports & Outdoors,1,200,Net Banking,26,CUST_278,RJoshi,rjoshi256@outlook.com,LOC_28,Amritsar,Returning
+ORD_04625,03/02/24,Pending,1013,INR,PD_14,Football,Sports & Outdoors,2,424,PayPal,31,CUST_157,RJoshi,rjoshi584@outlook.com,LOC_07,Udaipur,VIP
+ORD_04631,27/03/24,Completed,20610,INR,PD_03,Microwave,Home & Kitchen,5,245,PayPal,70,CUST_014,RVerma,rverma750@yahoo.com,LOC_14,Belgaum,New
+ORD_04636,06/02/24,Pending,8316,INR,PD_03,Microwave,Home & Kitchen,5,229,UPI,70,CUST_171,RDeshmukh,rdeshmukh221@outlook.com,LOC_21,Prayagraj,Returning
+ORD_04655,01/02/24,Pending,5480,INR,PD_14,Football,Sports & Outdoors,4,453,PayPal,25,CUST_025,PBhosale,pbhosale911@outlook.com,LOC_25,Salem,Returning
+ORD_04665,14/02/24,Pending,6679,INR,PD_14,Football,Sports & Outdoors,2,426,Net Banking,83,CUST_122,AKumar,akumar588@gmail.com,LOC_22,Bathinda,Returning
+ORD_04666,10/02/24,Completed,12910,INR,PD_03,Microwave,Home & Kitchen,3,160,Net Banking,50,CUST_219,RDeshmukh,rdeshmukh864@gmail.com,LOC_19,Lucknow,Returning
+ORD_04674,30/03/24,Completed,15006,INR,PD_03,Microwave,Home & Kitchen,4,116,UPI,82,CUST_043,NBhosale,nbhosale840@outlook.com,LOC_43,Gaya,VIP
+ORD_04679,09/02/24,Pending,5738,INR,PD_14,Football,Sports & Outdoors,2,116,UPI,28,CUST_233,RSharma,rsharma679@outlook.com,LOC_33,Bikaner,VIP
+ORD_04686,17/02/24,Canceled,7343,INR,PD_14,Football,Sports & Outdoors,3,175,Net Banking,30,CUST_090,SJoshi,sjoshi546@outlook.com,LOC_40,Aurangabad,VIP
+ORD_04690,13/02/24,Completed,4771,INR,PD_03,Microwave,Home & Kitchen,5,212,Net Banking,78,CUST_166,RBhosale,rbhosale753@yahoo.com,LOC_16,Howrah,New
+ORD_04706,10/03/24,Canceled,12609,INR,PD_14,Football,Sports & Outdoors,4,238,Credit Card,43,CUST_243,KJoshi,kjoshi192@yahoo.com,LOC_43,Gaya,New
+ORD_04712,23/03/24,Completed,4408,INR,PD_03,Microwave,Home & Kitchen,4,199,Net Banking,63,CUST_222,RJoshi,rjoshi483@yahoo.com,LOC_22,Bathinda,New
+ORD_04717,08/02/24,Completed,7603,INR,PD_14,Football,Sports & Outdoors,2,222,UPI,81,CUST_290,PKumar,pkumar171@gmail.com,LOC_40,Aurangabad,VIP
+ORD_04725,10/03/24,Canceled,860,INR,PD_03,Microwave,Home & Kitchen,2,139,PayPal,21,CUST_291,APatel,apatel864@outlook.com,LOC_41,Jodhpur,New
+ORD_04732,21/03/24,Canceled,6035,INR,PD_14,Football,Sports & Outdoors,3,88,PayPal,24,CUST_011,RJoshi,rjoshi691@gmail.com,LOC_11,Mysore,VIP
+ORD_04747,07/02/24,Completed,9668,INR,PD_03,Microwave,Home & Kitchen,2,181,Net Banking,71,CUST_247,SDeshmukh,sdeshmukh763@gmail.com,LOC_47,Madurai,VIP
+ORD_04752,18/03/24,Completed,8125,INR,PD_03,Microwave,Home & Kitchen,2,217,Credit Card,46,CUST_029,PVerma,pverma103@outlook.com,LOC_29,Jalandhar,VIP
+ORD_04763,06/02/24,Canceled,4892,INR,PD_03,Microwave,Home & Kitchen,4,296,Net Banking,32,CUST_066,RBhosale,rbhosale457@gmail.com,LOC_16,Howrah,New
+ORD_04764,18/02/24,Pending,2078,INR,PD_03,Microwave,Home & Kitchen,2,262,Credit Card,40,CUST_177,SGupta,sgupta133@gmail.com,LOC_27,Surat,Returning
+ORD_04778,16/03/24,Completed,17321,INR,PD_03,Microwave,Home & Kitchen,4,500,Credit Card,41,CUST_097,KKumar,kkumar793@outlook.com,LOC_47,Madurai,New
+ORD_04781,05/02/24,Pending,3988,INR,PD_14,Football,Sports & Outdoors,4,410,UPI,50,CUST_139,AGupta,agupta689@outlook.com,LOC_39,Gandhinagar,Returning
+ORD_04782,20/02/24,Canceled,14521,INR,PD_03,Microwave,Home & Kitchen,3,18,Credit Card,25,CUST_277,RJoshi,rjoshi537@yahoo.com,LOC_27,Surat,VIP
+ORD_04785,30/03/24,Canceled,7828,INR,PD_14,Football,Sports & Outdoors,4,348,Credit Card,96,CUST_049,SBhosale,sbhosale532@gmail.com,LOC_49,Varanasi,Returning
+ORD_04811,29/03/24,Completed,8743,INR,PD_03,Microwave,Home & Kitchen,2,317,Net Banking,28,CUST_207,SBhosale,sbhosale557@outlook.com,LOC_07,Udaipur,Returning
+ORD_04846,28/02/24,Completed,4355,INR,PD_14,Football,Sports & Outdoors,3,407,Net Banking,91,CUST_218,APatel,apatel340@outlook.com,LOC_18,Jabalpur,VIP
+ORD_04848,22/02/24,Completed,720,INR,PD_14,Football,Sports & Outdoors,3,432,PayPal,36,CUST_011,RJoshi,rjoshi691@gmail.com,LOC_11,Mysore,VIP
+ORD_04853,02/02/24,Completed,172,INR,PD_14,Football,Sports & Outdoors,2,368,PayPal,30,CUST_080,PDeshmukh,pdeshmukh985@gmail.com,LOC_30,Jaipur,New
+ORD_04857,27/02/24,Completed,1734,INR,PD_03,Microwave,Home & Kitchen,1,198,Credit Card,61,CUST_017,PVerma,pverma488@yahoo.com,LOC_17,Agra,VIP
+ORD_04867,25/03/24,Canceled,5758,INR,PD_03,Microwave,Home & Kitchen,3,481,UPI,56,CUST_227,AVerma,averma394@outlook.com,LOC_27,Surat,VIP
+ORD_04877,23/03/24,Pending,8701,INR,PD_03,Microwave,Home & Kitchen,3,125,Net Banking,87,CUST_274,SKumar,skumar201@outlook.com,LOC_24,Kanpur,New
+ORD_04883,07/02/24,Canceled,2320,INR,PD_14,Football,Sports & Outdoors,3,44,UPI,90,CUST_037,NDeshmukh,ndeshmukh830@yahoo.com,LOC_37,Ahmedabad,Returning
+ORD_04884,22/03/24,Pending,8999,INR,PD_14,Football,Sports & Outdoors,5,383,Net Banking,77,CUST_040,NDeshmukh,ndeshmukh107@gmail.com,LOC_40,Aurangabad,VIP
+ORD_04887,27/02/24,Pending,11362,INR,PD_14,Football,Sports & Outdoors,3,375,Net Banking,94,CUST_003,RKumar,rkumar132@gmail.com,LOC_03,Durgapur,New
+ORD_04896,14/02/24,Canceled,10297,INR,PD_14,Football,Sports & Outdoors,4,230,Credit Card,51,CUST_053,SDeshmukh,sdeshmukh985@yahoo.com,LOC_03,Durgapur,New
+ORD_04910,06/03/24,Canceled,4860,INR,PD_14,Football,Sports & Outdoors,1,112,Credit Card,59,CUST_269,AVerma,averma967@yahoo.com,LOC_19,Lucknow,Returning
+ORD_04931,19/03/24,Completed,12239,INR,PD_03,Microwave,Home & Kitchen,3,293,Credit Card,31,CUST_285,PVerma,pverma329@gmail.com,LOC_35,Vadodara,Returning
+ORD_04949,02/03/24,Canceled,16201,INR,PD_14,Football,Sports & Outdoors,5,4,UPI,55,CUST_258,ASharma,asharma905@yahoo.com,LOC_08,Kota,New
+ORD_04954,18/03/24,Completed,11273,INR,PD_14,Football,Sports & Outdoors,3,414,UPI,92,CUST_275,NKumar,nkumar562@gmail.com,LOC_25,Salem,Returning
+ORD_04980,28/02/24,Canceled,21455,INR,PD_03,Microwave,Home & Kitchen,5,392,Credit Card,52,CUST_109,NBhosale,nbhosale923@outlook.com,LOC_09,Hubli,VIP
+ORD_04996,16/03/24,Canceled,2070,INR,PD_14,Football,Sports & Outdoors,3,341,Credit Card,92,CUST_182,RVerma,rverma227@yahoo.com,LOC_32,Chennai,VIP
